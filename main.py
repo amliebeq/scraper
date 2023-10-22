@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 
-n = 21
+n = 1
 project_managers_list = []
 
 while n < 50:
