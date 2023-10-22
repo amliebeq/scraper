@@ -1,0 +1,871 @@
+,name,address,locality,phone_number
+0,Sentry Management Inc,1414 W Broadway Rd Ste 205,"Tempe, AZ 85282",(480) 345-0046
+1,Associated Asset Management,1600 W Broadway Rd Ste 200,"Tempe, AZ 85282",(602) 957-9191
+2,Jf Associates,2111 E Broadway Rd Ste 22,"Tempe, AZ 85282",(480) 813-7821
+3,A Z Marketplace Realty,2101 E Broadway Rd,"Tempe, AZ 85282",(480) 813-7821
+4,Centrado Apartments,2039 E Broadway Rd,"Tempe, AZ 85282",(480) 894-1200
+5,Riptide Properties,3303 E Baseline Rd,"Gilbert, AZ 85234",(480) 633-0187
+6,Handy Flagstaff,1181 E Melody Ct,"Gilbert, AZ 85234",(480) 813-5714
+7,E & G Real Estate Services,1949 E Broadway Rd,"Tempe, AZ 85282",(480) 550-8500
+8,Southwest Accommodations Network,28 W Juniper Ave Ste 204,"Gilbert, AZ 85233",(480) 558-1295
+9,Heritage Square Apartment Homes,65 E Olive Ave,"Gilbert, AZ 85234",(480) 497-8335
+10,McClintock Townhome,1806 E Concorda Dr,"Tempe, AZ 85282",(855) 244-4658
+11,Homelogic Real Estate,350 E Elliot Rd,"Chandler, AZ 85225",(480) 346-4111
+12,A-Z Real Estate Professionals,207 N Gilbert Rd Bsmt 5,"Gilbert, AZ 85234",(480) 926-4848
+13,Vintage Real Estate,207 N Gilbert Rd Bsmt 1,"Gilbert, AZ 85234",(480) 926-0838
+14,Mark Toon Remax Alliance Group,725 W Elliot Rd,"Gilbert, AZ 85233",(602) 686-6000
+15,Copper Creek Apts,3501 S McClintock Dr,"Tempe, AZ 85282",(480) 897-6458
+16,Desert Jewel Apartments,2800 N Arizona Ave,"Chandler, AZ 85225",(480) 632-5735
+17,Pfp Tempe Realestate Holdings,3501 S Mcclintock Dr,"Tempe, AZ 85282",(480) 621-7643
+18,Willowbrook Apartments,905 S Dorsey Ln Apt 111,"Tempe, AZ 85281",(480) 966-1053
+19,Dcp Investors Alt,1260 E University Dr,"Tempe, AZ 85288",(480) 659-1922
+20,The Mark Tempe,1115 E Lemon St,"Tempe, AZ 85281",(480) 968-2555
+21,Realty Executives International,1400 E Southern Ave Ste 100,"Tempe, AZ 85282",(480) 839-2600
+22,Sonoran Title,1400 E Southern Ave Ste 910,"Tempe, AZ 85282",(480) 335-6700
+23,The Daniel Montez Real Estate Group,33 N Lindsay Rd Ste 111,"Gilbert, AZ 85234",(480) 269-6060
+24,Martins Real Estate Investments,1102 E Bishop Dr,"Tempe, AZ 85282",(480) 862-3580
+25,Landmark Apts,929 E Vista Del Cerro Dr,"Tempe, AZ 85281",(480) 921-9330
+26,Dow Realty,815 E Warner Rd,"Chandler, AZ 85225",(480) 247-8866
+27,Camden Hayden,800 E Curry Rd,"Tempe, AZ 85281",(480) 584-3330
+28,Chandler Office Center,1347 N Alma School Rd Ste 150,"Chandler, AZ 85224",(480) 963-0515
+29,Tuscany at Chandler Apartments,625 N Alma School Rd,"Chandler, AZ 85224",(480) 917-2929
+30,La Mirage Apartments,610 E Gilbert Dr,"Tempe, AZ 85281",(480) 968-2042
+31,Licgf Desert Apartments Inc,2101 N Evergreen St,"Chandler, AZ 85225",(480) 899-8686
+32,Re/Max Power Realty,91 N Val Vista Dr Ste 102,"Gilbert, AZ 85234",(480) 545-5858
+33,Santa Fe,700 E Weber Dr,"Tempe, AZ 85288",(480) 946-5523
+34,Homes In Transition,1204 E Baseline Rd Ste 106,"Tempe, AZ 85283",(602) 904-5027
+35,Viking Real Estate Investments,4645 S Lakeshore Dr Ste 1,"Tempe, AZ 85282",(480) 622-0322
+36,The Lucas Group,3920 S Rural Rd Ste 110,"Tempe, AZ 85282",(480) 598-8800
+37,The Vila Real Estate Group,3920 S Rural Rd Ste 110,"Tempe, AZ 85282",(602) 688-9167
+38,Synde Murray Real Estate & Financial Consultant,3920 S Rural Rd Ste 110,"Tempe, AZ 85282",(480) 360-3210
+39,Realty Executives,4625 S Lakeshore Dr,"Tempe, AZ 85282",(480) 839-3400
+40,Sell & Associates Inc,4625 S Lakeshore Dr,"Tempe, AZ 85282",(480) 345-4400
+41,Bridgeview Condos at Hayden,140 E Rio Salado Pkwy,"Tempe, AZ 85281",(480) 967-0984
+42,Southwest Business Center,4500 S Lakeshore Dr Ste 300,"Tempe, AZ 85282",(480) 345-2828
+43,J & F Associates,690 E Warner Rd,"Gilbert, AZ 85296",(480) 813-7821
+44,Arden Realty Inc,80 E Rio Salado Pkwy,"Tempe, AZ 85281",(480) 968-3456
+45,Omega Residential LLC,60 E Rio Salado Pkwy Ste 900,"Tempe, AZ 85281",(855) 663-4224
+46,Free Apartment List,325 E Southern Ave Ste 119,"Tempe, AZ 85282",(480) 966-0440
+47,West Six Apartments,111 W 6th St,"Tempe, AZ 85281",(480) 664-6111
+48,Dobson Towne Centre Apartments,1817 N Dobson Rd,"Chandler, AZ 85224",(480) 659-2700
+49,Granada Lake Apartments,5701 S Rural Rd,"Tempe, AZ 85283",(480) 838-4528
+50,Sapphire Realty,1820 E Ray Rd,"Chandler, AZ 85225",(480) 857-1716
+51,Golba Realty Group,1820 E Ray Rd,"Chandler, AZ 85225",(480) 503-0700
+52,West Fifth Apartments,601 W 5th St,"Tempe, AZ 85281",(480) 656-5411
+53,Coyote Sunrise Apartments,210 S Roosevelt St,"Tempe, AZ 85281",(480) 517-9500
+54,Occasio Realty,209 E Baseline Rd Ste E106,"Tempe, AZ 85283",(480) 699-1820
+55,First Place Realty,741 W University Dr,"Tempe, AZ 85281",(480) 736-1118
+56,Sunland North Apartments,2932 E Park Ave,"Gilbert, AZ 85234",(480) 924-4781
+57,Premier Locations,123 E Baseline Rd Ste D101,"Tempe, AZ 85283",(480) 897-1220
+58,Hidden Glen Apartments,818 W 3rd St,"Tempe, AZ 85281",(480) 968-8183
+59,Apartment Finders,1 W Baseline Rd,"Tempe, AZ 85283",(480) 897-7600
+60,Southern Manor Apartments,525 W Southern Ave,"Tempe, AZ 85282",(480) 967-9179
+61,Nolan Real Estate,615 S Hardy Dr,"Tempe, AZ 85281",(480) 829-9258
+62,The Standard Apartment Homes,615 S Hardy Dr,"Tempe, AZ 85281",(480) 968-0101
+63,Chamberlain Enterprises,1050 W Washington St,"Tempe, AZ 85288",(602) 275-5951
+64,Grandes Cortes Apartments,1150 W University Dr,"Tempe, AZ 85281",(480) 966-4117
+65,McFarlane Properties,5235 S Kyrene Rd,"Tempe, AZ 85283",(480) 752-1770
+66,Realty Post Service,5245 S Kyrene Rd,"Tempe, AZ 85283",(480) 491-7678
+67,Hartford Apartments,580 W Galveston St,"Chandler, AZ 85225",(480) 963-8375
+68,Broadway Park Apartments,1120 W Broadway Rd,"Tempe, AZ 85282",(480) 967-6368
+69,"Newsom, Ida",75 E Galveston St,"Gilbert, AZ 85295",(480) 855-9565
+70,Midland Real Estate Alliance,1611 E Warner Rd Ste 1,"Tempe, AZ 85284",(480) 325-1411
+71,Arbor Apartments,1548 W University Dr,"Tempe, AZ 85281",(480) 626-9324
+72,Nations Title Agency Of Arizona,1545 W University Dr,"Tempe, AZ 85281",(480) 966-7900
+73,Creative Housing Solutions,2155 S 55th St,"Tempe, AZ 85282",(480) 272-7905
+74,Creative Housing Solutions,2150 S 55th St,"Tempe, AZ 85282",(480) 219-3907
+75,Phoenix Capital Realty,969 E Oakland St,"Gilbert, AZ 85295",(480) 580-9279
+76,Sevilla Apartments,1145 W Baseline Rd Ofc,"Tempe, AZ 85283",(480) 839-4877
+77,Entrust Realty,3100 W Ray Rd,"Chandler, AZ 85226",(480) 393-0893
+78,Cushman & Wakefield Inc,1761 W University Dr,"Tempe, AZ 85281",(602) 997-6332
+79,Chandler Gardens Apts,300 E Commonwealth Ave,"Chandler, AZ 85225",(480) 917-7230
+80,Simpson Housing Limited Partnership,700 N Coronado St,"Chandler, AZ 85224",(480) 566-6768
+81,Sonoran Desert Realty,4435 E Laurel Ave,"Gilbert, AZ 85234",(480) 389-4890
+82,Associated Asset Management,1311 W Chandler Blvd Ste 130,"Chandler, AZ 85224",(800) 354-0257
+83,The Greens Apartments,125 S Alma School Rd,"Chandler, AZ 85224",(480) 347-9892
+84,Monterey Apartments,1406 N 85th Pl,"Scottsdale, AZ 85257",(480) 947-6024
+85,Scottsdale East Homes Inc,8210 E Garfield St,"Scottsdale, AZ 85257",(480) 945-7561
+86,Macallister Apartments,7979 E Wilshire Dr,"Scottsdale, AZ 85257",(480) 245-6032
+87,Better Homes and Garden Real Estate Move Time Realty,3200 N Hayden Rd Ste 315,"Scottsdale, AZ 85251",(480) 362-3000
+88,Scottsdale Place Apartments,3260 N Hayden Rd Suite # 210-467,"Scottsdale, AZ 85251",(480) 990-0520
+89,Vintage Apartments,7440 E Thomas Rd,"Scottsdale, AZ 85251",(480) 946-5741
+90,Jdj Realty,2334 N Scottsdale Rd,"Scottsdale, AZ 85257",(480) 946-3436
+91,Summertree Apartments,1911 N 70th St,"Scottsdale, AZ 85257",(480) 949-1594
+92,Desert North Realty,3226 N Miller Rd Ste 7,"Scottsdale, AZ 85251",(480) 405-6464
+93,Viviendas Apartments,3200 N 75th St,"Scottsdale, AZ 85251",(480) 946-7234
+94,Southwest Retail Group,7527 E 1st St,"Scottsdale, AZ 85251",(480) 946-6609
+95,Camellero & Indian Bend Apartments,7979 E Camelback Rd,"Scottsdale, AZ 85251",(480) 949-1820
+96,Fireside East Apartments,7740 E Glenrosa Ave,"Scottsdale, AZ 85251",(480) 994-4701
+97,Cbre,3501 N Scottsdale Rd,"Scottsdale, AZ 85251",(480) 272-8388
+98,San Marin Apartments,4215 N Drinkwater Blvd,"Scottsdale, AZ 85251",(480) 949-1222
+99,Legendary Investment Group,7411 E 6th Ave Ste 206,"Scottsdale, AZ 85251",(480) 347-3600
+100,The Kay-Grant Group,7141 E Main St,"Scottsdale, AZ 85251",(480) 387-3990
+101,America's Direct,4210 N Brown Ave,"Scottsdale, AZ 85251",(480) 429-5250
+102,Platinum Asset Mangement,6390 E Thomas Rd Ste 118,"Scottsdale, AZ 85251",(480) 748-4150
+103,Dpr Realty,7731 E Northland Dr,"Scottsdale, AZ 85251",(480) 990-7653
+104,Jemb Realty Corp,4343 N Scottsdale Rd,"Scottsdale, AZ 85251",(480) 874-4758
+105,The O'Malley Group,4343 N Scottsdale Rd Ste 150,"Scottsdale, AZ 85251",(480) 375-5929
+106,Homeowners Relief Options Inc,4343 N Scottsdale Rd,"Scottsdale, AZ 85251",(623) 738-4398
+107,AZ Home Buyer,7150 E Camelback Rd Ste 444,"Scottsdale, AZ 85251",(480) 331-1819
+108,CBRE Group Inc,7135 E Camelback Rd,"Scottsdale, AZ 85251",(702) 369-4800
+109,McDonald East Apartments LLP,8310 E Mcdonald Dr,"Scottsdale, AZ 85250",(480) 991-6141
+110,Papago Fairways,5343 E Taylor St,"Phoenix, AZ 85008",(602) 275-7997
+111,Scotsdale Kierland III,8111 E Mcdonald Dr,"Scottsdale, AZ 85250",(480) 922-1216
+112,Realty Executives International,5040 N Scottsdale Rd,"Paradise Valley, AZ 85253",(480) 481-0032
+113,Austin Fleck Property Management,690 E Warner Rd #153,"Gilbert, AZ 85296",(480) 207-2088
+114,Villagio Apartment Homes,1133 W Baseline Rd,"Tempe, AZ 85283",(480) 831-2012
+115,Bassett Cooper Properties,1385 E Warner Rd,"Gilbert, AZ 85296",(480) 632-2265
+116,Firstservice Residential,9000 E Pima Center Pkwy,"Scottsdale, AZ 85258",(480) 551-4300
+117,Cornerstone Properties Inc,4523 E Broadway Rd,"Phoenix, AZ 85040",(602) 433-0331
+118,Orsett Properties,4920 S Wendler Dr,"Tempe, AZ 85282",(602) 454-2301
+119,Golden Rule Realty,15326 E Hillside Dr,"Fountain Hills, AZ 85268",(480) 699-7653
+120,Driscoll & Associates,9151 E Charter Oak Dr,"Scottsdale, AZ 85260",(480) 860-2659
+121,Arizona Elite Properties,225 E Germann Rd Ste 110,"Gilbert, AZ 85297",(480) 899-9010
+122,ParcLand Crossing,800 W Willis Rd,"Chandler, AZ 85286",(480) 773-7222
+123,Hirani Oil,4122 W Venus Way Ste B,"Chandler, AZ 85226",(480) 753-1717
+124,Smdi Co,4222 E Camelback Rd,"Phoenix, AZ 85018",(602) 468-1111
+125,Offerpad,2212 E Williams Field Rd Ste 210,"Gilbert, AZ 85295",(844) 388-4539
+126,Mosaic Property Management,2218 E Williams Field Rd Ste 255,"Gilbert, AZ 85295",(480) 588-9500
+127,A M Realty & Property Management,9920 S Rural Rd,"Tempe, AZ 85284",(480) 831-1114
+128,The Casitas at San Marcos,901 S Alma School Rd,"Chandler, AZ 85224",(480) 664-0752
+129,"DDL Management, Inc.",2545 W Frye Rd Suite #9,"Chandler, AZ 85224",(480) 347-5186
+130,FirstService Residential Gilbert,161 E Rivulon Blvd Ste 105,"Gilbert, AZ 85297",(480) 618-0180
+131,PRS Property Management,4129 W. Milky Way,"Chandler, AZ 85226",(480) 838-3500
+132,Arizona Elite Properties,2425 S Stearman Dr Ste 120,"Chandler, AZ 85286",(480) 899-9010
+133,Arizona Advantage Properties,3910 S Alma School Rd Ste 1,"Chandler, AZ 85248",(480) 444-7234
+134,Rosehaven Estates,10540 E Apache Trl,"Apache Junction, AZ 85120",(480) 986-4132
+135,Bashas' Supermarkets,22402 S Basha Rd,"Chandler, AZ 85248",(480) 895-9350
+136,San Paseo,8050 S Pointe Pkwy W,"Phoenix, AZ 85044",(602) 780-1266
+137,Realty Executives International,4343 N Cofco Center Blvd Ste 123,"Phoenix, AZ 85008",(800) 252-3366
+138,PMI Real Estate Services,8655 E Via De Ventura,"Scottsdale, AZ 85258",(480) 945-7755
+139,P.B. Bell,8434 N 90th St Ste 100,"Scottsdale, AZ 85258",(480) 951-2222
+140,Parawest Community Development,7975 N Hayden Rd Ste D263,"Scottsdale, AZ 85258",(480) 998-0601
+141,Zip Realty,2929 N 44th St Ste 230,"Phoenix, AZ 85018",(602) 288-5514
+142,Ccmc,8360 E Via De Ventura,"Scottsdale, AZ 85258",(480) 921-7500
+143,Associa Arizona,7373 N Scottsdale Rd Ste A102,"Scottsdale, AZ 85253",(480) 892-5222
+144,Parc South Mountain,3400 E Southern Ave,"Phoenix, AZ 85040",(602) 374-2200
+145,PMI Real Estate Services,8655 E Via De Ventura G-160,"Scottsdale, AZ 85258",(480) 945-7755
+146,Anacosta At McCormick Ranch,9750 N 96th St,"Scottsdale, AZ 85258",(480) 391-3493
+147,Ahwatukee Board of Management,4700 E Warner Rd,"Phoenix, AZ 85044",(480) 893-3502
+148,Wexler Real Estate,7702 E Doubletree Ranch Rd Ste 300,"Scottsdale, AZ 85258",(480) 386-0711
+149,D.M.B. Associates,7600 E Doubletree Ranch Rd Ste 300,"Scottsdale, AZ 85258",(480) 367-7000
+150,Desert Sky Properties Inc.,7373 E Doubletree Ranch Rd Ste 200,"Scottsdale, AZ 85258",(480) 991-2268
+151,FlagStar Residential Co,"9375 E. Shea Blvd, Ste. 100","Scottsdale, AZ 85260",(480) 653-8500
+152,Lone Mountain Development,5211 E Arroyo Rd,"Paradise Valley, AZ 85253",(602) 369-4481
+153,A La Carte Property Services & Arizona Eviction Specialists,1220 N 27th St,"Phoenix, AZ 85008",(520) 548-0102
+154,Picerne Management Corporation,4518 N 32nd St,"Phoenix, AZ 85018",(602) 279-8484
+155,Prudential Arizona Properties,3200 E Camelback Rd,"Phoenix, AZ 85018",(602) 288-3950
+156,Sell My House Fast Phoenix Offer Climb,2441 E Mitchell Dr,"Phoenix, AZ 85016",(602) 833-1236
+157,Fort Lowell Realty & Property Management Inc,3020 E Camelback Rd Ste 255,"Phoenix, AZ 85016",(602) 441-3492
+158,National Buyers,2727 E Camelback Rd,"Phoenix, AZ 85016",(972) 971-2270
+159,Eisenberg Company,2710 E Camelback Rd,"Phoenix, AZ 85016",(602) 468-6100
+160,Cardon Development Group,2121 W Chandler Blvd,"Chandler, AZ 85224",(602) 629-1234
+161,Knight Managment,2195 W Chandler Blvd,"Chandler, AZ 85224",(480) 534-7284
+162,Solaris Property Management Co,671 N Madrid Ln,"Chandler, AZ 85226",(480) 782-8134
+163,Victoria Properties Management,549 S 48th St,"Tempe, AZ 85281",(480) 967-9354
+164,Amithyst Appartments,521 S 48th St,"Tempe, AZ 85281",(602) 795-0064
+165,Bliven Management Co,509 S 48th St,"Tempe, AZ 85281",(480) 423-3430
+166,Valley Income Properties,315 S 48th St Ste 101,"Tempe, AZ 85281",(602) 633-1350
+167,Valley of the Sun Real Estate,290 S Alma School Rd Ste 15,"Chandler, AZ 85224",(480) 600-6001
+168,Mosaic Properties,1482 E Williams Field Rd Ste 104,"Gilbert, AZ 85295",(480) 588-9500
+169,Victoria Properties Management,627 S 48th St Ste 110,"Tempe, AZ 85281",(480) 303-6701
+170,Vpm,627 S 48th St,"Tempe, AZ 85281",(480) 303-6701
+171,J & T Properties,4389 S Potter Dr,"Tempe, AZ 85282",(602) 438-0500
+172,T & R Properties,2717 W Southern Ave,"Tempe, AZ 85282",(602) 438-1934
+173,Az Elite Property Management,1495 S Higley Rd,"Gilbert, AZ 85296",(480) 659-9122
+174,Entrust Realty,950 W Elliot Rd Ste 101,"Tempe, AZ 85284",(480) 393-0893
+175,Firebird Housing,2141 E Pecos Rd Ste A,"Chandler, AZ 85225",(480) 625-9269
+176,KB Home,4040 E Ranch Rd,"Gilbert, AZ 85296",(480) 306-5221
+177,TWC Chandler,3111 W Chandler Blvd,"Chandler, AZ 85226",(480) 812-0152
+178,Daniel D Smith & Associates,2212 E Williams Field Rd,"Gilbert, AZ 85295",(480) 967-1333
+179,Bbhaz,3389 E Liberty Ln,"Gilbert, AZ 85296",(480) 550-7506
+180,Stradlance Properties,2730 S Val Vista Dr,"Gilbert, AZ 85295",(480) 878-5300
+181,Property Management Pest and Weed Control,2730 S Val Vista Dr Ste 133,"Gilbert, AZ 85295",(602) 845-9696
+182,Stradlance Properties,3011 S Lindsay Rd,"Gilbert, AZ 85295",(480) 878-5300
+183,Pride Community Management,2727 W Frye Rd Ste 230,"Chandler, AZ 85224",(480) 682-3209
+184,City Property Management,1811 S Martingale Rd,"Gilbert, AZ 85295",(480) 988-2086
+185,Windmill Co,9180 S Kyrene Rd,"Tempe, AZ 85284",(480) 656-5511
+186,Kellerlife,111 S Hearthstone Way,"Chandler, AZ 85226",(480) 454-4190
+187,Buyers Dream Realty,306 W Knox Rd,"Tempe, AZ 85284",(602) 576-2071
+188,Building Services Hines Property Management,3133 W Frye Rd,"Chandler, AZ 85226",(480) 656-5886
+189,Hines Hines Properties Inc,3133 W Frye Rd,"Chandler, AZ 85226",(480) 699-7008
+190,Wfm Acquisition Group Inc,100 N 79th St,"Chandler, AZ 85226",(480) 719-8889
+191,Ridenow Properties LLP,2677 E Willis Rd,"Chandler, AZ 85286",(480) 659-0900
+192,East Valley Management,3021 E Williams Field Rd,"Gilbert, AZ 85295",(480) 895-5006
+193,Acacia Properties Inc,1121 W Warner Rd Ste 109,"Tempe, AZ 85284",(480) 540-0459
+194,A & J Property Management,882 N Pineview Dr,"Chandler, AZ 85226",(480) 940-0910
+195,Real Estate Brokers International,1370 W Mulberry Dr,"Chandler, AZ 85286",(480) 893-7629
+196,United Country Real Estate  Arizona Property & Auction,3364 E Williams Field Rd Ste 103,"Gilbert, AZ 85295",(480) 422-6800
+197,Caz 2 Retail,1245 S Price Rd,"Chandler, AZ 85286",(480) 857-1068
+198,Mitzie Cordes-Heydt Realty One Group,3530 S Val Vista Dr Ste 114,"Gilbert, AZ 85297",(602) 999-8530
+199,Mosaic Properties,225 E Germann Rd Ste 270,"Gilbert, AZ 85297",(480) 588-9500
+200,Assurance Realty,1582 W Musket Way Ste 105A,"Chandler, AZ 85286",(480) 897-0123
+201,First Sonoran Property Management,1490 S Price Rd Ste 208,"Chandler, AZ 85286",(480) 855-3250
+202,Westhouse Properties,5505 W Chandler Blvd,"Chandler, AZ 85226",(480) 275-8133
+203,One Agave Property,8950 S 52nd St,"Tempe, AZ 85284",(480) 753-4221
+204,Picerne Development Corp,6152 W Oakland St,"Chandler, AZ 85226",(480) 961-1781
+205,Arizona United Realty,5680 W Chandler Blvd Ste G6,"Chandler, AZ 85226",(480) 292-8281
+206,Pb Bell Apt,1901 W Germann Rd,"Chandler, AZ 85286",(888) 758-4389
+207,Pin Point Property Management,6909 W Ray Rd Ste 9,"Chandler, AZ 85226",(480) 282-5172
+208,Sequoia Holdings,2425 S Stearman Dr,"Chandler, AZ 85286",(480) 899-9010
+209,Capital Property Ventures,2450 S Gilbert Rd Ste 100,"Chandler, AZ 85286",(480) 538-2565
+210,Redefy,8222 S 48th St Ste 205,"Phoenix, AZ 85044",(480) 378-7000
+211,First Arizona Title Agency,6263 N Scottsdale Rd Ste 190,"Scottsdale, AZ 85250",(480) 385-6500
+212,Signature Real Estate Services,8712 E Via De Commercio,"Scottsdale, AZ 85258",(480) 222-9522
+213,Golden Mountain Real Estate,8149 N 87th Pl Ste 135,"Scottsdale, AZ 85258",(480) 970-3300
+214,Premier Real Estate Group Inc,10565 N 114th St Ste 109,"Scottsdale, AZ 85259",(480) 991-4400
+215,CaliberCos Inc.,8901 E Mountain View Rd Ste 150,"Scottsdale, AZ 85258",(480) 295-7600
+216,Reliance Commercial Real Estate,5110 N 44th St Ste L-245,"Phoenix, AZ 85018",(480) 414-4014
+217,Terrafirma Commercial Real Estate,8422 E Shea Blvd Ste 100,"Scottsdale, AZ 85260",(480) 664-6462
+218,Rent With A Plan,2320 East Baseline Ste 148-207,"Phoenix, AZ 85042",(623) 777-9611
+219,Kevin Houston Group,15905 S 46th St Ste 160,"Phoenix, AZ 85048",(602) 370-8106
+220,Re/Max,3930 E Ray Rd Ste 100,"Phoenix, AZ 85044",(480) 759-3000
+221,Desert Pacific Advisors,9393 N 90th St Ste 207,"Scottsdale, AZ 85258",(480) 990-0970
+222,Peterson Company,9590 E Ironwood Square Dr Ste 205,"Scottsdale, AZ 85258",(480) 513-6846
+223,City Property Management,4645 E Cotton Gin Loop,"Phoenix, AZ 85040",(602) 437-4777
+224,Faith Realty & Investments,655 W Warner Rd,"Tempe, AZ 85284",(480) 893-1239
+225,Preserve Property Management,7776 S Pointe Pkwy W Ste 245,"Phoenix, AZ 85044",(480) 361-2706
+226,Land4less,2705 S Alma School Rd Ste 2,"Chandler, AZ 85286",(480) 987-1048
+227,Ocotillo Village Apartments,4221 E Mcdowell Rd,"Phoenix, AZ 85008",(602) 267-7917
+228,Guardian Realty & Management,2334 E Osborn Rd,"Phoenix, AZ 85016",(602) 861-2300
+229,Orsett Properties,4920 S Wendler Dr,"Tempe, AZ 85282",(602) 454-2301
+230,Golden Rule Realty,15326 E Hillside Dr,"Fountain Hills, AZ 85268",(480) 699-7653
+231,Vision Community Management,9633 S 48th St,"Phoenix, AZ 85044",(480) 759-4945
+232,San Paseo,8050 S Pointe Pkwy W,"Phoenix, AZ 85044",(602) 780-1266
+233,Ahwatukee Board of Management,4700 E Warner Rd,"Phoenix, AZ 85044",(480) 893-3502
+234,Home Key Realty,2168 E Williams Field Rd Ste 240,"Gilbert, AZ 85295",(480) 988-7100
+235,The Cooper 202 Apartments,1450 S Cooper Rd,"Chandler, AZ 85286",(480) 773-7753
+236,San Privada,1480 E Pecos Rd Apt 3052,"Gilbert, AZ 85295",(602) 780-1058
+237,Ocotillo Bay Apartments,1889 W Queen Creek Rd,"Chandler, AZ 85248",(480) 376-2619
+238,Domus,4445 N 36th St,"Phoenix, AZ 85018",(480) 613-4027
+239,Remax,9880 S Rural Rd,"Tempe, AZ 85284",(480) 850-5858
+240,"Solcito Properties, Inc",7316 E Solcito Ln,"Scottsdale, AZ 85250",(480) 368-8718
+241,Pinnacle Realty Management Co,4920 E Mcdowell Rd,"Phoenix, AZ 85008",(602) 258-3344
+242,360 Management,4836 E McDowell Rd,"Phoenix, AZ 85008",(602) 863-3600
+243,Eagle Property Management,8222 S 48th St Ste 240,"Phoenix, AZ 85044",(602) 832-7819
+244,Westland Properties,8141 E Indian Bend Rd,"Scottsdale, AZ 85250",(480) 443-8570
+245,Show Appeal Inc,8111 E Indian Bend Rd,"Scottsdale, AZ 85250",(602) 492-7469
+246,CP Ipers Prince Forum,6263 N Scottsdale Rd,"Scottsdale, AZ 85250",(480) 776-0551
+247,Cbre,6263 N Scottsdale Rd,"Scottsdale, AZ 85250",(480) 776-0551
+248,Susan Napier Property Management,6263 N Scottsdale Rd Ste 140,"Scottsdale, AZ 85250",(480) 427-2202
+249,CB Richard Ellis,6263 N Scottsdale Rd Ste 167,"Scottsdale, AZ 85250",(480) 443-0266
+250,Trillium 44,111 N Dupont Cir,"Phoenix, AZ 85034",(602) 687-9223
+251,Robinson Group,4915 E Thomas Rd,"Phoenix, AZ 85018",(602) 952-0243
+252,Casabella Association,7260 E Lincoln Dr,"Scottsdale, AZ 85250",(480) 991-4843
+253,Martinet Management,7349 N Via Paseo Del Sur,"Scottsdale, AZ 85258",(480) 905-1076
+254,B N U,668 N 44th St,"Phoenix, AZ 85008",(602) 273-7268
+255,Mark-Taylor Residential Inc,6623 N Scottsdale Rd,"Scottsdale, AZ 85250",(480) 991-9111
+256,San Paseo,6623 N Scottsdale Rd,"Scottsdale, AZ 85250",(480) 991-9111
+257,360 Property Management,668 N 44th St  Suite 256-E,"Phoenix, AZ 85008",(602) 863-3600
+258,McDowell Enterprises,9237 E Via De Ventura Ste 110,"Scottsdale, AZ 85258",(480) 990-8136
+259,Ae Property Management,6730 N Scottsdale Rd Ste 290,"Paradise Valley, AZ 85253",(480) 685-2889
+260,F-Star Property Management,6720 N Scottsdale Rd Ste 190,"Paradise Valley, AZ 85253",(480) 657-7827
+261,Great Homes,4001 E Broadway Rd,"Phoenix, AZ 85040",(480) 482-7300
+262,360 Management,4130 E Van Buren St Ste 360,"Phoenix, AZ 85008",(602) 863-3600
+263,Rpm Phoenix,10429 S 51st St Ste 206,"Phoenix, AZ 85044",(480) 719-1243
+264,Stratus Arizona,8777 E Via De Ventura Ste 180,"Scottsdale, AZ 85258",(602) 337-5511
+265,Omni Property Management,8687 E Via De Ventura Ste 315,"Scottsdale, AZ 85258",(602) 957-3500
+266,Sterling Fine Properties,7001 N Scottsdale Rd,"Paradise Valley, AZ 85253",(480) 447-3553
+267,Trident Wealth Management,8655 E Via De Ventura Ste F166,"Scottsdale, AZ 85258",(480) 346-1250
+268,Grunberg Management,8655 E Via De Ventura,"Scottsdale, AZ 85258",(480) 344-7220
+269,Dynamic Asset Management,8655 E Via De Ventura Ste G200,"Scottsdale, AZ 85258",(480) 429-5100
+270,Sage Property Management & Sales,8655 E Via De Ventura Ste G160,"Scottsdale, AZ 85258",(480) 945-7755
+271,Spanish Oaks Guard House,7804 E Mccormick Pkwy,"Scottsdale, AZ 85258",(480) 348-7816
+272,Dakota Property Management,8149 N 87th Pl,"Scottsdale, AZ 85258",(480) 315-6564
+273,Bw Enterprises,8125 N 86th Pl,"Scottsdale, AZ 85258",(480) 648-0828
+274,James Management Services,3930 E Watkins St,"Phoenix, AZ 85034",(602) 288-8858
+275,P.B. Bell,8434 N 90th St Ste 100,"Scottsdale, AZ 85258",(480) 951-2222
+276,P.B. Bell Asset Management Inc,8434 N 90th St,"Scottsdale, AZ 85258",(480) 951-2222
+277,USA Barcelona Realty Advisors,7025 N Scottsdale Rd,"Paradise Valley, AZ 85253",(480) 625-4355
+278,Valco,8686 E San Alberto Dr,"Scottsdale, AZ 85258",(480) 951-2429
+279,Sup 44th St 148,2606 N 44th St Ofc,"Phoenix, AZ 85008",(602) 955-7800
+280,Colleen DonDero,7975 N Hayden Rd Ste A101,"Scottsdale, AZ 85258",(602) 402-0784
+281,Desert Dimensions Properties,7975 N Hayden Rd Ste D285,"Scottsdale, AZ 85258",(480) 270-5355
+282,Mc Management Inc,8553 E San Alberto Ste 200,"Scottsdale, AZ 85258",(480) 998-5400
+283,Paradise Villas,1225 N 40th St Apt 1057,"Phoenix, AZ 85008",(602) 244-2420
+284,Peggy Rauch Group,7297 N Scottsdale Rd Unit 1003,"Paradise Valley, AZ 85253",(480) 584-3311
+285,Capital Consultants,8360 E Via De Ventura,"Scottsdale, AZ 85258",(480) 624-7020
+286,Hannay Realty Advisors,2999 N 44th St Ste 400,"Phoenix, AZ 85018",(602) 374-2000
+287,"Hannay Investment Properties, Inc",2999 N 44th St,"Phoenix, AZ 85018",(602) 374-2000
+288,"Cove Property Management, LP",2999 N 44th St,"Phoenix, AZ 85018",(480) 423-5700
+289,B & B Properties,8160 N Hayden Rd,"Scottsdale, AZ 85258",(480) 634-7199
+290,Spectrum Property Services,4223 S 36th Pl,"Phoenix, AZ 85040",(602) 358-7004
+291,Cra,8901 E Pima Center Pkwy,"Scottsdale, AZ 85258",(480) 889-9900
+292,Reliance Management,4141 S 36th St,"Phoenix, AZ 85040",(602) 314-6011
+293,Lesser Associates,8300 N Hayden Rd Ste 207,"Scottsdale, AZ 85258",(480) 991-5830
+294,Catalina of Arizona,1818 N 40th St,"Phoenix, AZ 85008",(602) 449-7979
+295,Everest Advisory,7373 N Scottsdale Rd,"Scottsdale, AZ 85253",(480) 860-6500
+296,Park Management & Investments,7373 N Scottsdale Rd,"Paradise Valley, AZ 85253",(480) 556-0563
+297,"Tri-Level Realty, Inc.",3326 N 44th St,"Phoenix, AZ 85018",(480) 990-7283
+298,Primrose Properties,6600 E Cactus Wren Pl,"Paradise Valley, AZ 85253",(480) 245-7886
+299,NRMT3 Arizona Property Management,5700 E Mcdonald Dr,"Paradise Valley, AZ 85253",(480) 659-9447
+300,Harbor View Holdings LP,3816 E Mcdowell Rd Ofc,"Phoenix, AZ 85008",(602) 795-8218
+301,Mic Ip II,3777 E Mcdowell Rd,"Phoenix, AZ 85008",(602) 795-8440
+302,The Holm Group,10920 E San Salvador Dr,"Scottsdale, AZ 85259",(480) 206-4265
+303,Sonoran Property Maintenance,3530 E Washington St,"Phoenix, AZ 85034",(602) 707-1572
+304,Marathon Resources Inc,9420 E Doubletree Ranch Rd Ste 107,"Scottsdale, AZ 85258",(480) 657-9808
+305,McCormick Ranch Property Association,9248 N 94th St,"Scottsdale, AZ 85258",(480) 860-1122
+306,Luxury Home Concierge,4340 E Indian School Rd Ste 21-494,"Phoenix, AZ 85018",(602) 329-0583
+307,Edan Properties,10850 E Turquoise Ave,"Scottsdale, AZ 85259",(480) 513-3725
+308,Scottsdale Property Management,9495 E San Salvador Dr Ste 100,"Scottsdale, AZ 85258",(480) 860-2000
+309,Bailey Property Management Inc,11087 E Ironwood Dr,"Scottsdale, AZ 85259",(480) 314-7651
+310,U Fixem Properties,Pmb 232  10105 E. Via Linda #103,"Scottsdale, AZ 85258",(480) 767-8447
+311,Leagan Realty,9414 E San Salvador Dr Ste 112,"Scottsdale, AZ 85258",(480) 656-7714
+312,Programmed Property Services,9414 E San Salvador Dr,"Scottsdale, AZ 85258",(480) 860-1999
+313,Arabian Park Property,11210 E Arabian Park Dr,"Scottsdale, AZ 85259",(480) 248-9427
+314,The Holm Group,10105 E Via Linda Ste 103-191,"Scottsdale, AZ 85258",(480) 206-4265
+315,Scottsdale Luxury Stay,10105 E Via Linda Ste 103-375,"Scottsdale, AZ 85258",(602) 888-1352
+316,Storace Family Trust,4325 E Montecito Ave,"Phoenix, AZ 85018",(602) 955-5384
+317,Rock On Properties Inc,8902 E Via Linda,"Scottsdale, AZ 85258",(480) 607-6747
+318,Westar Equities,10017 E Mountain View Rd,"Scottsdale, AZ 85258",(480) 451-0248
+319,Qiara Properties,6606 N Smoke Tree Ln,"Paradise Valley, AZ 85253",(480) 443-8293
+320,Arizona Distinguished Props,4540 N 44th St,"Phoenix, AZ 85018",(602) 468-3600
+321,Apex Management,1414 N 34th St Apt 133,"Phoenix, AZ 85008",(602) 225-0846
+322,Desert Pacific Advisors,9393 N 90th St Ste 207,"Scottsdale, AZ 85258",(480) 990-0970
+323,RN Properties the Park,4455 E Camelback Rd,"Phoenix, AZ 85018",(602) 955-1631
+324,Rod Kjerstad Property Management,3434 E Baseline Rd Unit 256,"Phoenix, AZ 85042",(480) 705-2227
+325,Racquet Club Realty,9711 E Mountain View Rd,"Scottsdale, AZ 85258",(480) 860-1230
+326,Frime Realty,531 N 32nd St,"Phoenix, AZ 85008",(623) 363-0107
+327,Real Property Management,10246 N 135th Pl,"Scottsdale, AZ 85259",(480) 614-8173
+328,Agenor Partners Realty,10575 N 114th St Ste 103,"Scottsdale, AZ 85259",(602) 758-8122
+329,Shockness Realty Group,10575 N 114th St Ste 103,"Scottsdale, AZ 85259",(480) 502-5005
+330,Catelina of Arizona,3001 N 36th St,"Phoenix, AZ 85018",(602) 957-7788
+331,W L Homes,8777 N Gainey Center Dr,"Scottsdale, AZ 85258",(480) 951-2700
+332,Asset Trust Management,7237 E Echo Ln,"Scottsdale, AZ 85258",(480) 882-0802
+333,Q8 Estate Management,7284 E Vaquero Dr,"Scottsdale, AZ 85258",(480) 252-0404
+334,Transwestern,4350 E Camelback Rd,"Phoenix, AZ 85018",(202) 775-7000
+335,Bpt,4350 E Camelback Rd,"Phoenix, AZ 85018",(602) 840-8426
+336,Verdi Management,10697 N Frank Lloyd Wright Blvd,"Scottsdale, AZ 85259",(480) 794-1439
+337,Carlyle Co,7702 E Doubletree Ranch Rd Ste 300,"Scottsdale, AZ 85258",(480) 946-3701
+338,"SilverStage Real Estate Services, LLC",7702 E Doubletree Ranch Rd Ste 300,"Scottsdale, AZ 85258",(602) 410-4020
+339,McRae Management Services,8800 N Gainey Center Dr Ste 255,"Scottsdale, AZ 85258",(480) 609-1200
+340,Long Realty The Fox Group,10101 N 92nd St Ste 101,"Scottsdale, AZ 85258",(480) 516-0555
+341,Lyons Properties,3949 S 28th St,"Phoenix, AZ 85040",(602) 268-4903
+342,Gibraltar Capital,2020 N 32nd St,"Phoenix, AZ 85008",(602) 914-2020
+343,A E Property Management,6550 E Ironwood Dr,"Paradise Valley, AZ 85253",(602) 553-4100
+344,Realty Executives,8601 N Scottsdale Rd,"Paradise Vly, AZ 85253",(480) 998-2992
+345,Avatar Properties,8601 N Scottsdale Rd Ste 225,"Scottsdale, AZ 85253",(480) 822-6653
+346,Arizona Valet,4802 E Ray Rd Ste 23-512,"Phoenix, AZ 85044",(480) 709-5052
+347,Legacy Home Management,4802 E Ray Rd Ste 23-266,"Phoenix, AZ 85044",(480) 382-1608
+348,LLC HCP Mob Scottsdale,10210 N 92nd St,"Scottsdale, AZ 85258",(480) 525-8440
+349,Sunningdale Management Group,7377 E Doubletree Ranch Rd,"Scottsdale, AZ 85258",(480) 998-1376
+350,Escee Commercial Properties,7377 E Doubletree Ranch Rd,"Scottsdale, AZ 85258",(480) 505-0919
+351,Noblewest Properties,7377 E Doubletree Ranch Rd Ste 270,"Scottsdale, AZ 85258",(480) 275-7680
+352,Iott Inc,11259 E Via Linda,"Scottsdale, AZ 85259",(480) 314-2550
+353,Rich Goldman Asset Management,7373 E Doubletree Ranch Rd,"Scottsdale, AZ 85258",(480) 471-5456
+354,Conscient Capital,7373 E Doubletree Ranch Rd,"Scottsdale, AZ 85258",(480) 471-5456
+355,Pinnacle Property Management,7373 E Doubletree Ranch Rd,"Scottsdale, AZ 85258",(602) 245-6564
+356,Westwood Financial Corp,9301 E Shea Blvd Ste 124,"Scottsdale, AZ 85260",(480) 314-3300
+357,Tratt Properties,5050 N 40th St,"Phoenix, AZ 85018",(602) 468-3100
+358,Professional Equity Management,5050 N 40th St,"Phoenix, AZ 85018",(480) 422-6930
+359,Chartwell Group,5050 N 40th St,"Phoenix, AZ 85018",(602) 441-3895
+360,Gainey Village Retail Center,8977 N Scottsdale Rd,"Paradise Valley, AZ 85253",(480) 704-3977
+361,Arcadia Vista,3025 N 32nd St,"Phoenix, AZ 85018",(602) 954-3990
+362,Summit Land Consultants,5060 N 40th St,"Phoenix, AZ 85018",(602) 957-1583
+363,Gate Ancala-Ent,11806 E Via Linda,"Scottsdale, AZ 85259",(480) 451-4701
+364,Seven 7 Properties,2837 E Dunbar Dr,"Phoenix, AZ 85042",(480) 717-3775
+365,7250 North 16th Street,5080 N 40th St,"Phoenix, AZ 85018",(602) 956-2200
+366,Arizona Industrial Properties,5100 N 40th St,"Phoenix, AZ 85018",(602) 426-0255
+367,JM Management Company Inc,5141 N 40th St,"Phoenix, AZ 85018",(602) 840-7893
+368,MRFS Properties,5141 N 40th St,"Phoenix, AZ 85018",(602) 840-2990
+369,Davis Enterprises,5110 N 40th St,"Phoenix, AZ 85018",(602) 275-1000
+370,Harrison Properties,5112 N 40th St Ste 105,"Phoenix, AZ 85018",(602) 840-4295
+371,Homewatch Property Management,8425 E Mustang Trl,"Scottsdale, AZ 85258",(480) 607-1524
+372,CK Property Management,14435 S 48th St,"Phoenix, AZ 85044",(602) 454-1626
+373,Brb Properties,6359 E Royal Palm Rd,"Paradise Valley, AZ 85253",(480) 275-7691
+374,First Award Real Estate Co,3712 E Highland Ave,"Phoenix, AZ 85018",(602) 522-2522
+375,C Y Arizona,8010 E Morgan Trl Ste 4,"Scottsdale, AZ 85258",(480) 367-1700
+376,Windsor at Mountain Park Ranch,13820 S 44th St,"Phoenix, AZ 85044",(480) 759-0111
+377,Kusyco,7272 E Gainey Ranch Rd Unit 33,"Scottsdale, AZ 85258",(602) 339-6903
+378,Helix Properties,3335 E Indian School Rd,"Phoenix, AZ 85018",(602) 648-2020
+379,Vision Community Management,13450 E Via Linda,"Scottsdale, AZ 85259",(480) 314-7332
+380,Arcadia Cooperative Parish,3530 N 32nd St,"Phoenix, AZ 85018",(602) 956-3710
+381,Black Ridge Management,3302 E Indian School Rd,"Phoenix, AZ 85018",(602) 955-1375
+382,Candy Land,3431 E Montecito Ave,"Phoenix, AZ 85018",(602) 956-8672
+383,Shea Edwards LTD,10752 N 89th Pl,"Scottsdale, AZ 85260",(480) 860-0523
+384,Hillcrest Ranches,3249 E Indian School Rd,"Phoenix, AZ 85018",(602) 957-7132
+385,Bernhard R Streed PLLC,8510 E Shea Blvd Ste 100,"Scottsdale, AZ 85260",(480) 628-6576
+386,"Linnig, Becca, AGT",8510 E Shea Blvd,"Scottsdale, AZ 85260",(480) 570-8845
+387,American Realty Brokers,4001 N 32nd St,"Phoenix, AZ 85018",(602) 955-6606
+388,Senior Living Services,8432 E Shea Blvd,"Scottsdale, AZ 85260",(480) 348-0300
+389,Fine Properties Inc,8426 E Shea Blvd,"Scottsdale, AZ 85260",(480) 704-4424
+390,Paramount Property Services,15215 S 48th St Ste 130,"Phoenix, AZ 85044",(480) 893-2990
+391,Rdm Properties,9521 N Technology Dr,"Fountain Hills, AZ 85268",(480) 816-2277
+392,Home Management Associates,4108 E Mcdonald Dr,"Scottsdale, AZ 85253",(602) 952-9449
+393,Arizona Investment & Management,2720 E Thomas Rd,"Phoenix, AZ 85016",(602) 264-7368
+394,The Osborn,2802 E Osborn Rd,"Phoenix, AZ 85016",(602) 955-5960
+395,Realty Executives Bradford Group,10601 N Hayden Rd Ste 110,"Scottsdale, AZ 85260",(480) 951-6868
+396,The Lankes Group,10601 N Hayden Rd # I-104,"Scottsdale, AZ 85260",(480) 626-8160
+397,"Picerne, David, AGT",4518 N 32nd St,"Phoenix, AZ 85018",(602) 279-8484
+398,ConAm Management Corporation,3333 E Camelback Rd Ste 252,"Phoenix, AZ 85018",(602) 957-8410
+399,MBA Real Estate,2601 E Thomas Rd Ste 117,"Phoenix, AZ 85016",(602) 595-9966
+400,Landmark Land Management,2160 E Van Buren St,"Phoenix, AZ 85006",(602) 889-0850
+401,Investors Realty,7814 E Clinton St,"Scottsdale, AZ 85260",(480) 664-1184
+402,Kiva Five Properties,11694 E Bloomfield Dr,"Scottsdale, AZ 85259",(480) 659-3209
+403,BlackRoc Property Management,15825 S 46th St,"Phoenix, AZ 85048",(480) 940-1366
+404,Justin Rollins Group,4505 E Chandler Blvd Ste 200,"Phoenix, AZ 85048",(602) 714-1012
+405,Grunberg Management Co,10305 N Scottsdale Rd,"Paradise Valley, AZ 85253",(480) 998-6907
+406,Greystar,3200 E Camelback Rd Ste 255,"Phoenix, AZ 85018",(602) 910-2752
+407,Berkshire Hathaway HomeServices Arizona Properties,3200 E Camelback Rd Ste 103,"Phoenix, AZ 85018",(602) 288-4400
+408,American Professional Realty,10341 N Scottsdale Rd,"Paradise Valley, AZ 85253",(480) 609-1900
+409,Realty Executives,3930 E Ray Rd Ste 100,"Phoenix, AZ 85044",(480) 706-1936
+410,Capilano Properties,5055 N 32nd St Ste 200,"Phoenix, AZ 85018",(602) 595-4801
+411,Rightpath Global Enterprises,3131 E Camelback Rd,"Phoenix, AZ 85016",(602) 977-2999
+412,Lowe Enterprises Inc,3131 E Camelback Rd,"Phoenix, AZ 85016",(602) 944-1210
+413,Red Mountail Retail Group,2711 E Indian School Rd,"Phoenix, AZ 85016",(602) 977-2791
+414,Lincoln Property Company,"3131 East Camelback Road, Suite 318","Phoenix, AZ 85016",(602) 912-8879
+415,Farrmont Realty Group,2633 E Indian School Rd Ste 130,"Phoenix, AZ 85016",(602) 222-8510
+416,MJ Real Estate Services Inc,3104 E Camelback Rd # 324,"Phoenix, AZ 85016",(602) 943-6850
+417,Legacci Management Services,3104 E Camelback Rd,"Phoenix, AZ 85016",(602) 833-5111
+418,Pederson Group,2036 E Baseline Rd,"Phoenix, AZ 85042",(602) 243-5321
+419,Nnc Apartment Ventures,3001 E Camelback Rd Ste 160,"Phoenix, AZ 85016",(602) 265-5511
+420,Breof Bnk2 Sky Harbour,1820 E Sky Harbor Cir N,"Phoenix, AZ 85034",(602) 252-0244
+421,Paradise Home Ventures,10632 N Scottsdale Rd Ste B572,"Scottsdale, AZ 85254",(480) 422-1504
+422,Marla Tiers Office,2334 E Osborn Rd,"Phoenix, AZ 85016",(602) 237-6363
+423,Building Management Services Inc,10505 N 69th St Ste 400,"Paradise Valley, AZ 85253",(480) 483-3900
+424,Stardom Portfolio 1,3506 N 24th St,"Phoenix, AZ 85016",(310) 697-2581
+425,National Property Services,7127 E Sahuaro Dr Ste 101,"Scottsdale, AZ 85254",(480) 443-5566
+426,Aseret Enterprise,3517 N 24th St,"Phoenix, AZ 85016",(602) 348-2827
+427,Colony Property Management,7000 E Shea Blvd Ste 1970,"Scottsdale, AZ 85254",(602) 885-9417
+428,Taylor Street Realty Services,2929 E Camelback Rd Ste 219,"Phoenix, AZ 85016",(602) 603-1000
+429,Service Star Realty,2929 E Camelback Rd Ste 119,"Phoenix, AZ 85016",(480) 426-9696
+430,Taylor Street Property Management,2929 E Camelback Rd Ste 215,"Phoenix, AZ 85016",(602) 603-9777
+431,S-J Management,2920 E Camelback Rd Ste 250,"Phoenix, AZ 85016",(602) 952-2510
+432,Sullens & Euchner,6945 E Sahuaro Dr Ste B1,"Scottsdale, AZ 85254",(480) 264-2768
+433,Pacific Co,2801 E Camelback Rd,"Phoenix, AZ 85016",(602) 248-8181
+434,Pacificia Retail Management,2801 E Camelback Rd,"Phoenix, AZ 85016",(602) 266-0012
+435,Grand Canyon Realty,11111 N Scottsdale Rd Ste 205M,"Scottsdale, AZ 85254",(480) 525-0031
+436,Lincoln Property Company,2777 E Camelback Rd,"Phoenix, AZ 85016",(602) 955-8197
+437,Avison Young,2720 E Camelback Rd,"Phoenix, AZ 85016",(480) 994-8155
+438,Century 21 Arizona Foothills,3930 E Chandler Blvd Ste 1,"Phoenix, AZ 85048",(480) 704-8000
+439,R & R Properties,3500 E Lincoln Dr,"Phoenix, AZ 85018",(602) 952-1571
+440,Wilson Property Services,8120 E Cactus Rd Ste 300,"Scottsdale, AZ 85260",(480) 874-2600
+441,City Property Management,4645 E Cotton Gin Loop,"Phoenix, AZ 85040",(602) 437-4777
+442,"Sentry Management, Inc.",7955 S Priest Dr Ste 105,"Tempe, AZ 85284",(480) 345-0046
+443,Property Prosperity Inc,3620 E Campbell Ave,"Phoenix, AZ 85018",(602) 331-8882
+444,Empire Properties Inc,2105 S 48th St Ste 103,"Tempe, AZ 85282",(602) 437-0110
+445,BRE Properties Inc,3033 N 44th St,"Phoenix, AZ 85018",(602) 381-8141
+446,Pinnacle Properties Management,7776 S Pointe Pkwy W Ste 115,"Phoenix, AZ 85044",(602) 431-8344
+447,Arizona Industrial Properties,5202 S 40th St,"Phoenix, AZ 85040",(602) 438-8000
+448,Landcorp Property Maintenance,4720 E Cotton Gin Loop,"Phoenix, AZ 85040",(480) 212-0032
+449,Mercy Services Corp,16632 E Circulo S Hernandez,"Guadalupe, AZ 85283",(480) 820-5240
+450,Bennett Properties,5870 N 74th Pl,"Scottsdale, AZ 85250",(480) 947-9200
+451,Associa Arizona,7500 N Dobson Rd,"Scottsdale, AZ 85256",(480) 892-5222
+452,Scdc Properties,4647 E Chandler Blvd,"Phoenix, AZ 85048",(480) 857-3980
+453,"TAL PROPERTY MANAGEMENT , LLC",2320 E Baseline Rd Ste 148-495,"Phoenix, AZ 85042",(480) 243-8452
+454,Breof Bnk2 Sky Harbour,1820 E Sky Harbor Cir S,"Phoenix, AZ 85034",(602) 252-0244
+455,Tip Top Home Maintenance Inc,12410 N 136th Pl,"Scottsdale, AZ 85259",(480) 614-1398
+456,Faith Realty & Investments,655 W Warner Rd,"Tempe, AZ 85284",(480) 893-1239
+457,Keiland Group,PO Box 3191,"Gilbert, AZ 85299",(602) 570-2736
+458,Affiliated Property Management,1760 E Pecos Rd Ste 447,"Gilbert, AZ 85295",(480) 892-7033
+459,Prologis Management Inc,4555 E Elwood St,"Phoenix, AZ 85040",(480) 446-9322
+460,Investors Properties,501 N 44th St,"Phoenix, AZ 85008",(602) 275-2664
+461,Eastern Columbia Properties,3230 E Broadway Rd,"Phoenix, AZ 85040",(602) 454-2784
+462,Ahwatukee Realty,4514 E Arapahoe St,"Phoenix, AZ 85044",(480) 893-1461
+463,Flag Property Management,4417 N 40th St Ste 400B,"Phoenix, AZ 85018",(602) 957-1668
+464,Bliven Property Management,2939 E Roosevelt St Ofc,"Phoenix, AZ 85008",(602) 275-0407
+465,Ahwatukee Board of Management Inc,4002 E Keresan St,"Phoenix, AZ 85044",(480) 264-7235
+466,Az Real Estate and Property Management,3612 E Mariposa St,"Phoenix, AZ 85018",(602) 712-9500
+467,J&L Exclusive Homes and Properties,8300 N Hayden Rd Ste 207,"Scottsdale, AZ 85258",(602) 332-5364
+468,Cactus Property Service,2820 N 36th St,"Phoenix, AZ 85008",(602) 956-5671
+469,Visions Community Management,2241 E Pinchot Ave,"Phoenix, AZ 85016",(602) 237-6842
+470,Kachina Property Management,3737 E Indian School Rd,"Phoenix, AZ 85018",(602) 954-3730
+471,NAI Horizon,2944 N 44th St Ste 200,"Phoenix, AZ 85018",(602) 955-4000
+472,Preserve Property Management,7776 S Pointe Pkwy W Ste 245,"Phoenix, AZ 85044",(480) 361-2706
+473,North American Property Management,5195 E Camelback Rd,"Phoenix, AZ 85018",(602) 595-9354
+474,Wilson Property Service Inc,4022 E Broadway Rd Ste 122,"Phoenix, AZ 85040",(602) 454-9370
+475,Guardian Realty & Management,2334 E Osborn Rd,"Phoenix, AZ 85016",(602) 861-2300
+476,Associated Property Management,3260 E Indian School Rd,"Phoenix, AZ 85018",(480) 941-1077
+477,Vision Community Management,9633 S 48th St,"Phoenix, AZ 85044",(480) 759-4945
+478,Garden Terrace Apartments,4848 E Holly St,"Phoenix, AZ 85008",(602) 275-8398
+479,Cantera Apartments,2475 W Pecos Rd,"Chandler, AZ 85224",(480) 812-3700
+480,"Better Choice Homes, LLC",4365 E Pecos Rd Ste 141,"Gilbert, AZ 85295",(602) 492-9242
+481,Phoenix Virtual Tour,16601 S 164th St,"Gilbert, AZ 85295",(602) 647-8887
+482,Daniel D. Smith & Associates,16540 E Pecos Rd,"Gilbert, AZ 85295",(480) 967-1333
+483,Maclay Real Estate,3800 S Alma School Rd Ste 110,"Chandler, AZ 85248",(480) 786-5600
+484,"HomeLovers, Rental Property Owners",4001 E Broadway Rd Ste B19,"Phoenix, AZ 85040",(602) 792-5333
+485,Park Paloma Apartments,2930 N 46th St,"Phoenix, AZ 85018",(602) 840-0590
+486,Prime Capital,668 N 44th St,"Phoenix, AZ 85008",(602) 685-1012
+487,San Paulo Apartments,14625 S Mountain Pkwy,"Phoenix, AZ 85044",(480) 759-2500
+488,Hermosa Place Apartments,3132 N 32nd St,"Phoenix, AZ 85018",(602) 957-1295
+489,Urban Walk Apartments,3802 N 27th St,"Phoenix, AZ 85016",(602) 955-3381
+490,Vesting AZ Tam & Associates,3530 S Val Vista Dr Ste 114,"Gilbert, AZ 85297",(480) 993-9893
+491,Ejm Development Co,7975 N Hayden Rd,"Scottsdale, AZ 85258",(480) 948-7880
+492,"PAMELA MARTIN-ABELLA, Century 21 Arizona Foothills, agent, SFR,CNE",3930 E Chandler Blvd,"Phoenix, AZ 85048",(480) 703-5830
+493,Home Key Realty,2168 E Williams Field Rd Ste 240,"Gilbert, AZ 85295",(480) 988-7100
+494,Allure at Tempe Apartments,1155 W Grove Pkwy,"Tempe, AZ 85283",(480) 839-9469
+495,Souza Group Real Estate,4939 W Ray Rd Ste 4-359,"Chandler, AZ 85226",(602) 432-3296
+496,Orange Vista Homes,2550 S San Tan Village Pkwy Apt 4038,"Gilbert, AZ 85295",(480) 447-8752
+497,Camden Pecos Ranch,1175 W Pecos Rd,"Chandler, AZ 85224",(480) 462-7960
+498,Upland Group Inc,9180 S Kyrene Rd Suite # 115,"Tempe, AZ 85284",(480) 820-9229
+499,The Cooper 202 Apartments,1450 S Cooper Rd,"Chandler, AZ 85286",(480) 773-7753
+500,San Privada,1480 E Pecos Rd Apt 3052,"Gilbert, AZ 85295",(602) 780-1058
+501,Monument Apartments,2300 W Pecos Rd,"Chandler, AZ 85224",(833) 256-9130
+502,Invitation Homes,1131 W Warner Rd Ste 102,"Tempe, AZ 85284",(855) 224-5484
+503,West USA Realty,1850 E Northrop Blvd,"Chandler, AZ 85286",(602) 418-8045
+504,Streamline Vacation Rental Software,5580 W Chandler Blvd Ste 3,"Chandler, AZ 85226",(888) 590-1946
+505,Avana River Ranch,6152 W Oakland St,"Chandler, AZ 85226",(480) 561-2773
+506,Reflections At Gila Springs Apartments,411 N Kyrene Rd,"Chandler, AZ 85226",(480) 961-0711
+507,Elite REO Services,6909 W Ray Rd Ste 105,"Chandler, AZ 85226",(877) 747-4736
+508,San Palacio,2255 W Germann Rd,"Chandler, AZ 85286",(480) 999-9893
+509,Karin Telles Realtor,106 S Kyrene Rd,"Chandler, AZ 85226",(480) 459-9825
+510,Ocotillo Bay Apartments,1889 W Queen Creek Rd,"Chandler, AZ 85248",(480) 376-2619
+511,Sky View Ranch,4632 E Germann Rd,"Gilbert, AZ 85297",(480) 279-4310
+512,Keller Williams Legacy One Realty - Michelle Petrin,3910 S Alma School Rd Ste 1,"Chandler, AZ 85248",(480) 310-0125
+513,De Rito Partners Development,9120 E Talking Stick Way,"Scottsdale, AZ 85250",(480) 834-8500
+514,Progress Residential,7500 N Dobson Rd Ste 300,"Scottsdale, AZ 85256",(833) 774-7377
+515,Papago Crossing,4530 E McDowell Rd,"Phoenix, AZ 85008",(602) 275-1380
+516,Prados Apartments at Arcadia,4815 E Thomas Rd,"Phoenix, AZ 85018",(602) 952-0243
+517,Walt Danley Christie's International Real Estate,6720 N Scottsdale Rd Ste 140,"Paradise Valley, AZ 85253",(480) 991-2050
+518,The Pointe at the Foothills,4424 E Baseline Rd,"Phoenix, AZ 85042",(602) 438-0384
+519,Heasley&Partners,8901 E Pima Center Pkwy Ste 115,"Scottsdale, AZ 85258",(480) 837-7445
+520,AZ Cash Deals,4202 N 44th St Ste 1,"Phoenix, AZ 85018",(602) 644-1315
+521,The Investor Hub,4202 N 44th St,"Phoenix, AZ 85018",(602) 840-3073
+522,Peterson Company,9590 E Ironwood Square Dr Ste 205,"Scottsdale, AZ 85258",(480) 513-6846
+523,Jll,4300 E Camelback Rd Ste 100,"Phoenix, AZ 85018",(602) 282-6300
+524,Regency Custom Homes,7377 E Doubletree Ranch Rd,"Scottsdale, AZ 85258",(480) 367-1959
+525,Cushman & Wakefield,7373 E Doubletree Ranch Rd Ste B227,"Scottsdale, AZ 85258",(480) 245-6564
+526,A & E Holdings Group LLC,14700 N Frank Lloyd Wright Blvd # 157-366,"Scottsdale, AZ 85259",(602) 773-6992
+527,Peak Group,5108 N 40th St,"Phoenix, AZ 85018",(602) 952-0123
+528,Domus,4445 N 36th St,"Phoenix, AZ 85018",(480) 613-4027
+529,"David Oesterle - Realtor, RE/MAX Excalibur",8510 E Shea Blvd Ste 100,"Scottsdale, AZ 85260",(602) 920-6888
+530,Liv Ahwatukee,16025 S 50th St,"Phoenix, AZ 85048",(480) 758-4215
+531,Realty Executives International,10607 N Hayden Rd Ste 100,"Scottsdale, AZ 85260",(480) 948-9450
+532,MCO Realty Inc,9617 N Saguaro Blvd,"Fountain Hills, AZ 85268",(480) 837-2500
+533,West Usa Realty,4505 E Chandler Blvd Ste 170,"Phoenix, AZ 85048",(602) 370-4494
+534,Park 28,4114 N 28th St,"Phoenix, AZ 85016",(855) 241-7437
+535,Joe Homebuyer Arizona Group or Offer Arizona,2800 N 24th St,"Phoenix, AZ 85008",(602) 529-1268
+536,We Buy Houses in Arizona,3104 E Camelback Rd Ste 2112,"Phoenix, AZ 85016",(602) 900-9327
+537,Keller Williams Realty Biltmore Partners,2920 E Camelback Rd Ste 100,"Phoenix, AZ 85016",(602) 553-4400
+538,Radius Apartments,2925 N Greenfield Rd,"Phoenix, AZ 85016",(602) 603-1270
+539,Arizona Best Real Estate,11333 N Scottsdale Rd Ste 100,"Scottsdale, AZ 85254",(480) 948-4711
+540,Camello Vista Homeowners Association,7225 E Via Camello,"Scottsdale, AZ 85258",(480) 998-1770
+541,Las Colinas Community Association,9000 E Pima Center Pkwy Ste 300,"Scottsdale, AZ 85258",(480) 551-4300
+542,Double Delta Arizona,2130 W Chandler Blvd,"Chandler, AZ 85224",(480) 963-9661
+543,Nuestra Senora Apartments,5420 E Calle Cerritos,"Guadalupe, AZ 85283",(480) 247-8139
+544,Boston Square Apartments,1750 W Boston St,"Chandler, AZ 85224",(480) 899-6525
+545,McFix It Maintenance & Repair,1729 E Pony Ln,"Gilbert, AZ 85295",(480) 264-2873
+546,Gold Trust Realty,200 S Dobson Rd,"Chandler, AZ 85224",(480) 722-9888
+547,Green Street Realty,2141 E Pecos Rd,"Chandler, AZ 85225",(480) 326-9405
+548,Flat Fee MLS Listing Service,2200 E Williams Field Rd Ste 200,"Gilbert, AZ 85295",(888) 990-2469
+549,Proacitve Real Estate Advisors,2200 E Williams Field Rd Ste 200,"Gilbert, AZ 85295",(480) 695-6485
+550,Remax,9880 S Rural Rd,"Tempe, AZ 85284",(480) 850-5858
+551,Century 21 All Star Realtors,430 W Warner Rd,"Tempe, AZ 85284",(480) 831-2221
+552,Kieckhefer Properties,2727 W Frye Rd,"Chandler, AZ 85224",(480) 855-7358
+553,Riata Apartments LP,100 N Hearthstone Way,"Chandler, AZ 85226",(480) 474-4240
+554,Apartment Interior Supply,9245 S Farmer Ave Ste 110,"Tempe, AZ 85284",(480) 964-7600
+555,Broadstone Fashion Center Apartments,555 S Galleria Way,"Chandler, AZ 85226",(480) 306-4373
+556,SE Valley Regional Association Realtors,1733 E Northrop Blvd,"Chandler, AZ 85286",(480) 833-7510
+557,SanTan Apartments,2910 S Greenfield Rd,"Gilbert, AZ 85295",(480) 656-4950
+558,PMB Real Estate Service,3420 S Mercy Rd Ste 213,"Gilbert, AZ 85297",(480) 222-5698
+559,Prudential Arizona Properties,1490 S Price Rd Ste 103,"Chandler, AZ 85286",(480) 703-4085
+560,Signature Realty Solutions,1490 S Price Rd,"Chandler, AZ 85286",(480) 361-5641
+561,Gordon Realty Services Inc,4930 W Chicago St,"Chandler, AZ 85226",(480) 838-4221
+562,Key Results Realty,5505 W Chandler Blvd Ste 10,"Chandler, AZ 85226",(480) 275-7223
+563,RPS Home Solutions,2040 S Alma School Rd Ste 321,"Chandler, AZ 85286",(480) 442-4606
+564,Team Barnum Real Estate,2301 S Stearman Dr,"Chandler, AZ 85286",(480) 963-6000
+565,Vinson Realty & Investments,9865 S Priest Dr,"Tempe, AZ 85284",(480) 820-6432
+566,"Lage, Sheryl, AGT",2450 S Arizona Ave,"Chandler, AZ 85286",(480) 726-7000
+567,The Ryan-Whyte Team at RE/MAX,2450 S Arizona Ave Ste 1,"Chandler, AZ 85286",(480) 726-7000
+568,United Brokers Group,106 S Kyrene Rd Ste 2,"Chandler, AZ 85226",(480) 539-4775
+569,Kb Home the Villas at Paseo Place,220 E Bluejay Dr,"Chandler, AZ 85286",(480) 696-3117
+570,Cushman & Wakefield Inc,2501 S Price Rd,"Chandler, AZ 85286",(480) 899-3635
+571,Santan Professional Office Suites,3190 S Gilbert Rd,"Chandler, AZ 85286",(480) 306-6328
+572,New Traditions Realty,3190 S Gilbert Rd Ste 5,"Chandler, AZ 85286",(480) 895-6570
+573,EXIT Realty Expanded Vision,4365 E Pecos Rd Ste 128,"Gilbert, AZ 85295",(480) 290-1009
+574,DPG Investments,3115 S Price Rd,"Chandler, AZ 85248",(480) 248-9785
+575,West USA Realty Revelation,4050 S Arizona Ave Ste 4,"Chandler, AZ 85248",(480) 722-9800
+576,Suntree Realty,4050 S Arizona Ave,"Chandler, AZ 85248",(480) 895-4000
+577,Lincoln Garden Apartments,6480 N 82nd St,"Scottsdale, AZ 85250",(480) 951-1473
+578,Red Mountain Springs Apartment,1652 N 52nd St,"Phoenix, AZ 85008",(602) 275-2163
+579,Diversified Partners,7500 e mcdonald dr ste 100a,"Scottsdale, AZ 85250",(480) 947-8800
+580,Insight Land & Investments,7400 E Mcdonald Dr,"Scottsdale, AZ 85250",(480) 991-3549
+581,Rent With A Plan,4638 E Southgate Ave,"Phoenix, AZ 85040",(602) 296-5858
+582,Papago Palms Apartments,1835 N 51st St,"Phoenix, AZ 85008",(602) 513-8201
+583,Courtney Village At Papago Prk,4848 E Roosevelt St,"Phoenix, AZ 85008",(602) 267-8267
+584,Manor View Appartments,4902 E Willetta St,"Phoenix, AZ 85008",(602) 273-1200
+585,For Rent Magazine,8222 S 48th St,"Phoenix, AZ 85044",(602) 437-6120
+586,Redefy,8222 S 48th St Ste 205,"Phoenix, AZ 85044",(480) 378-7000
+587,Villa Thomas Apartments,5104 E Thomas Rd Apt 1,"Phoenix, AZ 85018",(602) 957-3464
+588,Tallwave,6263 N Scottsdale Rd Ste 180,"Scottsdale, AZ 85250",(602) 840-0400
+589,First Arizona Title Agency,6263 N Scottsdale Rd Ste 190,"Scottsdale, AZ 85250",(480) 385-6500
+590,Carlton Court Apartments,5024 E Thomas Rd,"Phoenix, AZ 85018",(602) 309-3375
+591,McComb Realty,5702 E Camelback Rd,"Phoenix, AZ 85018",(480) 310-2597
+592,Main Street Real Estate Advisors,426 N 44th St,"Phoenix, AZ 85008",(602) 275-4100
+593,Murano Apartment Homes,4815 E Thomas Rd,"Phoenix, AZ 85018",(602) 952-1999
+594,Urban Connected Apartments,1220 N 44th St,"Phoenix, AZ 85008",(602) 275-7719
+595,Stunning Homes Realty,10235 S 51st St Ste 195,"Phoenix, AZ 85044",(480) 266-9960
+596,Signature Real Estate Services,8712 E Via De Commercio,"Scottsdale, AZ 85258",(480) 222-9522
+597,Expert Realty Advisors,2048 N 44th St Ste 100,"Phoenix, AZ 85008",(602) 254-6244
+598,Golden Mountain Real Estate,8149 N 87th Pl Ste 135,"Scottsdale, AZ 85258",(480) 970-3300
+599,Strong Tower Real Estate Group,8679 E San Alberto Dr Ste 100,"Scottsdale, AZ 85258",(480) 719-3313
+600,Weksler 2000,2600 N 44th St,"Phoenix, AZ 85008",(602) 840-8167
+601,Roosevelt Plaza Apartments,945 N 40th St,"Phoenix, AZ 85008",(602) 275-5393
+602,Healthcare Realty Trust,8415 N Pima Rd Ste 200,"Scottsdale, AZ 85258",(480) 767-5173
+603,Jpf Commercial Realty Services,2929 N 44th St Ste 345,"Phoenix, AZ 85018",(602) 952-1282
+604,Arrowood Village Apartments,4038 E Mcdowell Rd,"Phoenix, AZ 85008",(602) 267-8960
+605,Aztec Villa Apartments,4001 E Mcdowell Rd,"Phoenix, AZ 85008",(602) 231-8990
+606,Desert Foothills Villas,10610 S 48th St,"Phoenix, AZ 85044",(480) 763-9171
+607,San Antigua Apartments Leasing Offc,8311 E Via De Ventura,"Scottsdale, AZ 85258",(480) 948-1997
+608,Intero Real Estate Services,7373 N Scottsdale Rd Ste D115,"Scottsdale, AZ 85253",(480) 682-5000
+609,Century 21 Arizona Foothills,7373 N Scottsdale Rd,"Scottsdale, AZ 85253",(480) 889-2151
+610,Emmerson Enterprises Inc,7373 N Scottsdale Rd,"Scottsdale, AZ 85253",(480) 368-5205
+611,Gottlieb Realestate Partners,3021 S 35th St,"Phoenix, AZ 85034",(602) 281-6737
+612,America-One Realty Service,6544 E Indian Bend Rd,"Paradise Valley, AZ 85253",(480) 905-8115
+613,Harding & Associates,9420 E Doubletree Ranch Rd Ste 110,"Scottsdale, AZ 85258",(480) 609-7090
+614,Ryan Companies,3255 E Elwood St,"Phoenix, AZ 85034",(602) 453-0151
+615,Oak Tree Apartments,3620 E Mcdowell Rd,"Phoenix, AZ 85008",(602) 267-7492
+616,Realty Executives Azroy Satellite,9319 N 94th Way Ste 900,"Scottsdale, AZ 85258",(480) 338-4888
+617,Healthcare Realty Service Inc,9522 E San Salvador Dr,"Scottsdale, AZ 85258",(480) 767-5173
+618,Arrowpoint Realty,9414 E San Salvador Dr,"Scottsdale, AZ 85258",(480) 947-1499
+619,Lake View Homes,12802 S 50th Way,"Phoenix, AZ 85044",(602) 404-7192
+620,Tidewood Apartments,4025 N 40th St,"Phoenix, AZ 85018",(602) 368-8262
+621,Jaren Corporation,4455 E Camelback Rd,"Phoenix, AZ 85018",(602) 840-4800
+622,Moreno Companies,4455 E Camelback Rd,"Phoenix, AZ 85018",(602) 667-9500
+623,Arborwood Apartments,2601 N 36th St,"Phoenix, AZ 85008",(602) 275-7611
+624,Coral Gardens,3230 E Roosevelt St,"Phoenix, AZ 85008",(602) 914-1299
+625,Premier Real Estate Group Inc,10565 N 114th St Ste 109,"Scottsdale, AZ 85259",(480) 991-4400
+626,Canberra Apartments,2929 N 36th St,"Phoenix, AZ 85018",(602) 957-0420
+627,Amithyst Apartments,3009 N 36th St,"Phoenix, AZ 85018",(602) 795-0064
+628,Tamarack Shadows Apartmen,3101 N 36th St,"Phoenix, AZ 85018",(602) 293-3468
+629,Darwin Apartments,2930 N 35th St Apt 23,"Phoenix, AZ 85018",(602) 224-5701
+630,Western Pacific Coml Real Est,7702 E Doubletree Ranch Rd,"Scottsdale, AZ 85258",(480) 777-0008
+631,Northsight Management,8901 E Mountain View Rd Ste 100,"Scottsdale, AZ 85258",(602) 842-4000
+632,CaliberCos Inc.,8901 E Mountain View Rd Ste 150,"Scottsdale, AZ 85258",(480) 295-7600
+633,Reliance Commercial Real Estate,5110 N 44th St Ste L-245,"Phoenix, AZ 85018",(480) 414-4014
+634,Phoenix Real Estate Agent - Tucker Blalock,4350 E Camelback Rd Ste B-175,"Phoenix, AZ 85018",(602) 561-0445
+635,Appletree Apartments,1710 N 32nd St,"Phoenix, AZ 85008",(602) 244-9201
+636,Amithyst Apartments,1822 N 32nd St,"Phoenix, AZ 85008",(602) 795-0064
+637,Olive Square Apartments,4501 N 40th St,"Phoenix, AZ 85018",(602) 956-9080
+638,Sunrise Vista Apartments,4415 S 28th St,"Phoenix, AZ 85040",(602) 323-5256
+639,Trinsic Residential Group,4040 E Camelback Rd,"Phoenix, AZ 85018",(480) 448-0985
+640,America-One Realty Services,7373 E Doubletree Ranch Rd Ste 200,"Scottsdale, AZ 85258",(480) 483-9307
+641,Zdi Realty Advisors,7337 E Doubletree Ranch Rd,"Scottsdale, AZ 85258",(480) 248-8717
+642,Sienna Point Apparments,2830 E Roosevelt St,"Phoenix, AZ 85008",(602) 267-6507
+643,Samuel & Co Inc,5141 N 40th St Ste 500,"Phoenix, AZ 85018",(602) 840-2990
+644,Realty Executives Relocation,3607 E Campbell Ave,"Phoenix, AZ 85018",(602) 912-1535
+645,Geneva Holdings,3620 E Campbell Ave Ste B,"Phoenix, AZ 85018",(602) 952-8811
+646,Escondido Apartments,4422 N 36th St,"Phoenix, AZ 85018",(602) 957-8816
+647,Domas,4445 N 36th St,"Phoenix, AZ 85018",(602) 626-8147
+648,Ryan Companies,3900 E Camelback Rd Ste 100,"Phoenix, AZ 85018",(602) 322-6100
+649,Contigo Realty,4440 N 36th St,"Phoenix, AZ 85018",(602) 633-2814
+650,ARC Loft and Apartments Homes,4446 N 36th St,"Phoenix, AZ 85018",(866) 959-9896
+651,Apartment Finders,3335 E Indian School Rd,"Phoenix, AZ 85018",(602) 840-0514
+652,Arcadia Park Apts Office,3426 N 32nd St,"Phoenix, AZ 85018",(602) 955-0850
+653,"AZ Home Match-Real Estate, Staging & Consulting",8510 E Shea Blvd,"Scottsdale, AZ 85260",(480) 490-9535
+654,International Real Estate Pros,15215 S 48th St,"Phoenix, AZ 85044",(480) 456-4100
+655,Terrafirma Commercial Real Estate,8422 E Shea Blvd Ste 100,"Scottsdale, AZ 85260",(480) 664-6462
+656,Oakdale Townhomes,2302 N 27th St,"Phoenix, AZ 85008",(602) 601-5897
+657,Tanner Manor Apartments,2150 E Broadway Rd,"Phoenix, AZ 85040",(602) 323-0100
+658,McDowell East Apartments,2433 E Mcdowell Rd,"Phoenix, AZ 85008",(602) 275-2323
+659,The Williams Real Estate Company,10605 N Hayden Rd Ste G120,"Scottsdale, AZ 85260",(480) 686-9899
+660,Hebbard & Webb Inc. - Brokers,1401 N 24th St Ste 1,"Phoenix, AZ 85008",(602) 275-5715
+661,Affinity Real Estate Advisors,3333 E Camelback Rd Ste 220,"Phoenix, AZ 85018",(480) 845-0201
+662,Acacia Creek Apartments Sales Office,9990 N Scottsdale Rd,"Paradise Valley, AZ 85253",(480) 948-7841
+663,Trammell Crow Homes,1190 E Beryl Ave,"Scottsdale, AZ 85258",(480) 451-4180
+664,Rent With A Plan,2320 East Baseline Ste 148-207,"Phoenix, AZ 85042",(623) 777-9611
+665,PMB Real Estate Service,4545 E Chandler Blvd,"Phoenix, AZ 85048",(858) 794-1900
+666,Camelback Courtyard,3802 N 28th St,"Phoenix, AZ 85016",(602) 954-1200
+667,All Star Rental Apartments,15825 S 46th St,"Phoenix, AZ 85048",(480) 283-9777
+668,Kevin Houston Group,15905 S 46th St Ste 160,"Phoenix, AZ 85048",(602) 370-8106
+669,Benross Corp,3200 E Camelback Rd,"Phoenix, AZ 85018",(602) 468-0040
+670,Re/Max,3930 E Ray Rd Ste 100,"Phoenix, AZ 85044",(480) 759-3000
+671,Lowe Enterprises,3133 E Camelback Rd,"Phoenix, AZ 85016",(602) 808-9084
+672,P & E Properties,3131 E Camelback Rd,"Phoenix, AZ 85016",(602) 606-5777
+673,Tait Development Inc,3131 E Camelback Rd,"Phoenix, AZ 85016",(602) 466-1308
+674,Homestead Real Estate Services,2942 N 24th St,"Phoenix, AZ 85016",(602) 944-4451
+675,US Home Realty,2345 E Thomas Rd Ste C-258,"Phoenix, AZ 85016",(602) 292-3185
+676,Del Prado Apartments,5110 N 32nd St,"Phoenix, AZ 85018",(602) 957-3400
+677,Knight Apartments,2242 E Pinchot Ave Apt 18,"Phoenix, AZ 85016",(602) 840-0242
+678,West Valley Arizona Inc,2929 E Camelback Rd,"Phoenix, AZ 85016",(480) 777-5004
+679,Sonoran Property Maintenance,3743 N 24th St,"Phoenix, AZ 85016",(602) 707-1572
+680,Lifestyle Partners Team KW Biltmore,2920 E Camelback Rd,"Phoenix, AZ 85016",(623) 694-4737
+681,Allison Shelton Real Estate Services,2850 E Camelback Rd Ste 300,"Phoenix, AZ 85016",(602) 474-3555
+682,Frontera Development,2850 E Camelback Rd,"Phoenix, AZ 85016",(480) 315-9600
+683,Shelton Residential,2850 E Camelback Rd Ste 300,"Phoenix, AZ 85016",(602) 474-3555
+684,San Paloma Maintenance,6980 E Sahuaro Dr,"Scottsdale, AZ 85254",(480) 951-6140
+685,Arciterra Group,2720 E Camelback Rd,"Phoenix, AZ 85016",(602) 840-6800
+686,Carr America Realty,2720 E Camelback Rd,"Phoenix, AZ 85016",(602) 956-6702
+687,Capital Asset Management,2701 E Camelback Rd,"Phoenix, AZ 85016",(602) 489-7990
+688,"Lucky Lefty, LLC",1623 E Carson Rd,"Phoenix, AZ 85042",(602) 663-7876
+689,Land4less,2705 S Alma School Rd Ste 2,"Chandler, AZ 85286",(480) 987-1048
+690,Properties R US,2201 E Thomas Rd Ste 1,"Phoenix, AZ 85016",(602) 314-4304
+691,Ocotillo Village Apartments,4221 E Mcdowell Rd,"Phoenix, AZ 85008",(602) 267-7917
+692,Camidor,1702 E Highland Ave Ste 210,"Phoenix, AZ 85016",(602) 650-2260
+693,Scottsdale Property Management,1661 E Camelback Rd,"Phoenix, AZ 85016",(602) 265-5500
+694,Equity Lifestyle Properties - Western Region Office,7310 N 16th St Ste 300,"Phoenix, AZ 85020",(602) 674-5690
+695,Stave Properties,14020 N Northsight Blvd,"Scottsdale, AZ 85260",(480) 994-0200
+696,Fountain Hills Recovery,16872 E Avenue Of The Fountains,"Fountain Hills, AZ 85268",(480) 837-5226
+697,Golden Valley Property Management,13239 N La Montana Dr Ste 106,"Fountain Hills, AZ 85268",(480) 836-0999
+698,GPO Reserve C/O Orsett Properties,"5353 N. 16th Street, Suite 105","Phoenix, AZ 85016",(602) 241-3220
+699,Capilano Properties,2200 E Camelback Rd,"Phoenix, AZ 85016",(602) 595-4801
+700,Nabers Property Management & Realty,13404 N La Montana Dr Ste 4,"Fountain Hills, AZ 85268",(480) 837-9807
+701,R N Properties La Terraza,4644 N 22nd St,"Phoenix, AZ 85016",(602) 224-1958
+702,Alliance Residential,2415 E Camelback Rd Ste 600,"Phoenix, AZ 85016",(602) 778-2800
+703,Riverstone Residential Group,2198 E Camelback Rd Ste 320,"Phoenix, AZ 85016",(480) 922-5708
+704,Arizona Investors Alliance,7720 N 16th St Ste 370,"Phoenix, AZ 85020",(602) 229-1200
+705,PMI San Tan,20225 E Russet Rd,"Queen Creek, AZ 85142",(480) 908-2250
+706,Cbre,2575 E Camelback Rd Ste 500,"Phoenix, AZ 85016",(602) 735-5555
+707,Cushman & Wakefield Property Management,2555 E Camelback Rd Ste 400,"Phoenix, AZ 85016",(602) 253-7900
+708,Vestar Development,2425 E Camelback Rd Ste 750,"Phoenix, AZ 85016",(602) 866-0900
+709,Colliers,2390 E Camelback Rd Ste 100,"Phoenix, AZ 85016",(602) 222-5000
+710,Maguire Financial Group,2111 E Highland Ave,"Phoenix, AZ 85016",(602) 808-5595
+711,Heers Management Co,2200 E Camelback Rd Ste 235,"Phoenix, AZ 85016",(602) 840-0482
+712,Canam Realty Group,3233 E Chandler Blvd Ste 23,"Phoenix, AZ 85048",(480) 759-2242
+713,Those Callaways,12418 N 71st St,"Scottsdale, AZ 85254",(480) 596-5751
+714,Keyrenter Premier Property Management,14362 N Frank Lloyd Wright Blvd Ste 2158,"Scottsdale, AZ 85260",(480) 400-6040
+715,Zoned Properties,14269 N 87th St Ste 205,"Scottsdale, AZ 85260",(480) 656-8933
+716,Novella At Biltmore,1803 E Missouri Ave,"Phoenix, AZ 85016",(833) 251-1308
+717,Arizona Receiver Group,7950 E Acoma Dr Ste 108,"Scottsdale, AZ 85260",(480) 363-3284
+718,Sunny Escapes AZ,14236 N 59th Pl,"Scottsdale, AZ 85254",(480) 718-7242
+719,Active Renter Property Management,1428 E Northern Ave,"Phoenix, AZ 85020",(602) 635-1063
+720,Ocotillo Properties and Realty,4841 S Vista Pl,"Chandler, AZ 85248",(602) 690-4235
+721,Apartment Homes at the Heights,255 E Chandler Heights Rd,"Chandler, AZ 85249",(480) 272-6960
+722,Land 4 Less US,18521 E Queen Creek Rd Ste 105,"Queen Creek, AZ 85142",(480) 987-1048
+723,Institute of Real Estate Management,3924 E Narrowleaf Dr,"Gilbert, AZ 85298",(602) 253-1852
+724,Legacy Realty & Property Management,18525 E Purple Sage Dr,"Queen Creek, AZ 85142",(480) 380-8913
+725,"Rader Realty, Inc.",14414 E Vallejo St,"Chandler, AZ 85249",(480) 988-3337
+726,Institute Real Estate Management,Po Box 11369,"Chandler, AZ 85248",(602) 253-1852
+727,Pedersen Real Estate & Property Management,105 S Delaware Dr Ste 5,"Apache Jct, AZ 85120",(480) 299-1801
+728,Arizona Prime Estates,740 N San Marcos Dr,"Apache Junction, AZ 85120",(480) 982-5882
+729,"Momentum Realty, Inc.",23844 S Power Rd Ste 102,"Queen Creek, AZ 85142",(480) 993-6000
+730,Cassia Real Estate,879 N Plaza Dr,"Apache Junction, AZ 85120",(480) 924-6003
+731,A Property Management,21408 S Ellsworth Rd,"Queen Creek, AZ 85142",(480) 496-2400
+732,Merit Enterprises Inc,21408 S Ellsworth Rd,"Queen Creek, AZ 85142",(480) 398-2472
+733,Down Home Real Estate,21455 S Ellsworth Rd Ste 1,"Queen Creek, AZ 85142",(480) 720-0730
+734,HHS Real Estate Investment,19702 E Calle De Flores,"Queen Creek, AZ 85142",(480) 987-9191
+735,McVinua Doug,21231 E Maya Rd,"Queen Creek, AZ 85142",(480) 699-7577
+736,HomeSmart International,22243 S Ellsworth Rd,"Queen Creek, AZ 85142",(602) 736-4608
+737,William Lyon Homes,20957 E Pecan Ln,"Queen Creek, AZ 85142",(480) 888-8023
+738,Helix Properties,4425 N 24th St,"Phoenix, AZ 85016",(602) 648-2020
+739,Cole Companies,2555 E Camelback Rd Ste 400,"Phoenix, AZ 85016",(602) 778-8728
+740,Cole Desert Palms Management,2555 E Camelback Rd,"Phoenix, AZ 85016",(602) 955-5147
+741,Moreno Co,2555 E Camelback Rd,"Phoenix, AZ 85016",(602) 667-9500
+742,Loma Linda Apartments,2118 E Fairmount Ave,"Phoenix, AZ 85016",(602) 997-1662
+743,Aho-Monerosa Villas,4114 N 22nd St,"Phoenix, AZ 85016",(602) 633-2511
+744,Hendricks & Partners,2525 E Camelback Rd Ste 1150,"Phoenix, AZ 85016",(602) 955-1122
+745,Coolwater Properties,2525 E Camelback Rd Ste 136,"Phoenix, AZ 85016",(602) 388-1751
+746,Prologis,2525 E Camelback Rd,"Phoenix, AZ 85016",(602) 474-8350
+747,Proqual Inc,3919 E Hiddenview Dr,"Phoenix, AZ 85048",(480) 759-9360
+748,Scottsdale Pavilions LP,2425 E Camelback Rd,"Phoenix, AZ 85016",(602) 866-0900
+749,Kenneth James Realty,"2425 E. Camelback Rd, Suite 150","Phoenix, AZ 85016",(480) 455-9003
+750,RPM Living - Phoenix,2425 E Camelback Rd,"Phoenix, AZ 85016",(623) 244-1700
+751,Heger Industrial,2415 E Camelback Rd Ste 700,"Phoenix, AZ 85016",(602) 441-5720
+752,Northpoint Asset Management,2415 E Camelback Rd Ste 700,"Phoenix, AZ 85016",(520) 300-5264
+753,Pederson Group,2415 E Camelback Rd,"Phoenix, AZ 85016",(602) 265-2888
+754,Bradley Dennison Group,2415 E Camelback Rd,"Phoenix, AZ 85016",(602) 899-4114
+755,McCarthy Cook,4722 N 24th St,"Phoenix, AZ 85016",(602) 468-7200
+756,City Life Homestays,4742 N 24th St,"Phoenix, AZ 85016",(480) 712-5353
+757,Phoenix Realty Advisors,4539 N 22nd St Ste 207,"Phoenix, AZ 85016",(602) 299-5700
+758,Montecito Orion Aviana,4644 N 22nd St Ofc,"Phoenix, AZ 85016",(602) 224-1958
+759,Laterraza at the Biltmore,4644 N 22nd St,"Phoenix, AZ 85016",(602) 224-1958
+760,Hines,2375 E Camelback Rd Ste 210,"Phoenix, AZ 85016",(602) 385-4000
+761,"First Rate Home Buyers, LLC",2375 E Camelback Rd,"Phoenix, AZ 85016",(800) 531-8992
+762,Liberty Property Trust,2390 E Camelback Rd Ste 318,"Phoenix, AZ 85016",(602) 808-3500
+763,South Ranch Two Hoa,1308 E Apollo Rd,"Phoenix, AZ 85042",(602) 304-0021
+764,All County Prestige,2211 E Highland Ave,"Phoenix, AZ 85016",(602) 753-0333
+765,Welltower Management Service Group,2222 E Highland Ave,"Phoenix, AZ 85016",(602) 956-9980
+766,Berkshire Property Advisors,1920 E Indian School Rd,"Phoenix, AZ 85016",(602) 753-1241
+767,Tiempo Inc,1107 E Tonto St,"Phoenix, AZ 85034",(602) 252-0482
+768,Cutler Commercial,2150 E Highland Ave Ste 207,"Phoenix, AZ 85016",(602) 955-3500
+769,MBD Properties,9529 N 52nd St,"Paradise Valley, AZ 85253",(480) 607-6407
+770,Trammell Crow Company,2231 E Camelback Rd Ste 102,"Phoenix, AZ 85016",(602) 285-3101
+771,Eisenberg Company,2231 E Camelback Rd Ste 215,"Phoenix, AZ 85016",(602) 468-6100
+772,Transwestern,2201 E Camelback Rd,"Phoenix, AZ 85016",(602) 955-7030
+773,Hb Asset Management,2001 E Campbell Ave,"Phoenix, AZ 85016",(602) 274-4231
+774,CMRB Holdings,2200 E Camelback Rd,"Phoenix, AZ 85016",(602) 956-5636
+775,"Richardson, Lisa J, AGT",2200 E Camelback Rd,"Phoenix, AZ 85016",(602) 264-8400
+776,AZ Real Estate and Property Management,1500 E Thomas Rd Ste 101,"Phoenix, AZ 85014",(602) 712-9500
+777,Camidor Property Services,2198 E Camelback Rd Ste 325,"Phoenix, AZ 85016",(602) 650-2260
+778,North Desert Management,12424 N 74th St,"Scottsdale, AZ 85260",(480) 513-7590
+779,Biers Management Group,7459 E Windrose Dr,"Scottsdale, AZ 85260",(480) 513-1777
+780,S & D Property Holdings,1421 E Thomas Rd,"Phoenix, AZ 85014",(602) 354-3842
+781,Dge Properties,1913 E Minnezona Ave,"Phoenix, AZ 85016",(480) 483-8971
+782,Morgan Realty & Management Inc,3615 N 16th St Ste 8,"Phoenix, AZ 85016",(602) 265-1985
+783,Optima,3625 N 16th St,"Phoenix, AZ 85016",(602) 274-0100
+784,Red Mountain Retail Group,4869 N 20th St,"Phoenix, AZ 85016",(602) 977-2791
+785,Alvarado Management,2525 E Arizona Biltmore Cir,"Phoenix, AZ 85016",(602) 314-4183
+786,Avenel On 16th,3815 N 16th St,"Phoenix, AZ 85016",(602) 264-9466
+787,Fidelity Commercial Property,Po Box 32005,"Phoenix, AZ 85064",(602) 468-0600
+788,Incline Investments,PO Box 18013,"Fountain Hls, AZ 85269",(602) 620-2396
+789,Bella Vista PMG Services,14000 N 94th St,"Scottsdale, AZ 85260",(480) 767-9010
+790,Professional Equity Management,13835 N Northsight Blvd,"Scottsdale, AZ 85260",(480) 422-6940
+791,Osborn Place,1414 E Osborn Rd,"Phoenix, AZ 85014",(602) 374-2727
+792,Prime Performance Properties,5335 E Shea Blvd Apt 2058,"Scottsdale, AZ 85254",(831) 419-9087
+793,Elton Realty,14406 N 99th St,"Scottsdale, AZ 85260",(480) 451-3318
+794,Edward & Co,2400 E Arizona Biltmore Cir,"Phoenix, AZ 85016",(602) 955-9222
+795,Jdm Properties,2400 E Arizona Biltmore Cir,"Phoenix, AZ 85016",(602) 955-3441
+796,Verdi Management,14362 N Frank Lloyd Wright Blvd,"Scottsdale, AZ 85260",(480) 794-1439
+797,Total Property Service,8929 E Gray Rd,"Scottsdale, AZ 85260",(480) 661-1233
+798,Metro Property Services,17218 E Quail Ridge Dr,"Fountain Hills, AZ 85268",(480) 306-4287
+799,NLR Property Management,6225 N 24th St,"Phoenix, AZ 85016",(307) 856-9155
+800,Fountain Hills Property Management,17031 E El Lago Blvd,"Fountain Hills, AZ 85268",(480) 837-5226
+801,Rudel Company,1450 E Indian School Rd Ste 104,"Phoenix, AZ 85014",(602) 266-5662
+802,"MAS International, Inc.",1702 E Highland Ave Ste 412,"Phoenix, AZ 85016",(855) 378-7919
+803,West USA Realty,16626 E Avenue Of The Fountains,"Fountain Hills, AZ 85268",(480) 816-4316
+804,SW Property Acquisition,16810 E Avenue Of The Fountains,"Fountain Hills, AZ 85268",(480) 889-2350
+805,"Bachman, Elma, AGT",16824 E Avenue Of The Fountains,"Fountain Hills, AZ 85268",(480) 391-0492
+806,Renters Warehouse,4620 N 16th St Ste A103,"Phoenix, AZ 85016",(480) 626-2226
+807,Wasatch Commercial Property,5040 E Shea Blvd,"Scottsdale, AZ 85254",(480) 284-6021
+808,Fenway XIII,5040 E Shea Blvd,"Scottsdale, AZ 85254",(480) 284-6021
+809,Colony Property Management,5040 E Shea Blvd,"Scottsdale, AZ 85254",(602) 885-9417
+810,Merced Restart Phoenix Investors I,1661 E Camelback Rd,"Phoenix, AZ 85016",(602) 230-9411
+811,Diamondback Realty,14301 N 87th St Ste 106,"Scottsdale, AZ 85260",(602) 504-1100
+812,Arizona Equity Properties,14300 N Northsight Blvd,"Scottsdale, AZ 85260",(602) 384-5922
+813,North American Fine Properties,14300 N Northsight Blvd Ste 217,"Scottsdale, AZ 85260",(480) 998-0101
+814,Kern Realty,16742 E Parkview Ave Ste 3,"Fountain Hills, AZ 85268",(480) 837-5833
+815,Fortuna Asset Management,13402 N Scottsdale Rd,"Scottsdale, AZ 85254",(480) 991-2116
+816,Hayward Fine Properties,16803 E Palisades Blvd,"Fountain Hills, AZ 85268",(480) 296-4402
+817,Paramount Companies,7701 E Gray Rd Ste 102,"Scottsdale, AZ 85260",(480) 664-1922
+818,Guardian Realty & Management,5125 N 16th St # A200,"Phoenix, AZ 85016",(602) 861-2300
+819,Sun-West Management & Realty,13430 N Scottsdale Rd,"Scottsdale, AZ 85254",(602) 200-8200
+820,Cbre,14500 N Northsight Blvd Ste 309,"Scottsdale, AZ 85260",(480) 778-1437
+821,Morgan Realty & Management Inc.,5150 N 16th St Ste C163,"Phoenix, AZ 85016",(602) 265-1985
+822,Property Minders,1645 E Missouri Ave,"Phoenix, AZ 85016",(602) 626-8355
+823,Noblewest Properties,8149 E Evans Rd Ste 4,"Scottsdale, AZ 85260",(480) 275-7680
+824,vacayAZ,8151 E Evans Rd Ste 3,"Scottsdale, AZ 85260",(480) 590-1655
+825,Cornwell Corp,7580 E Gray Rd,"Scottsdale, AZ 85260",(480) 951-1212
+826,Specialty Lodging,7655 E Redfield Rd,"Scottsdale, AZ 85260",(480) 429-3844
+827,Step by Step Transitional,4323 N 12th St Ste 100,"Phoenix, AZ 85014",(602) 393-4400
+828,"Stedman, Eliot, AGT",5343 N 16th St,"Phoenix, AZ 85016",(602) 248-0600
+829,Madison Building Owner Lic,5343 N 16th St,"Phoenix, AZ 85016",(602) 296-7435
+830,Association Administrators AM,4035 E Fanfol Dr,"Phoenix, AZ 85028",(602) 569-9169
+831,Madison Building Owner,5353 N 16th St,"Phoenix, AZ 85016",(602) 266-0742
+832,PCM Properties,7575 E Redfield Rd,"Scottsdale, AZ 85260",(480) 361-1130
+833,Zeke Enterprises,7720 E Evans Rd,"Scottsdale, AZ 85260",(480) 306-4395
+834,All County Prestige Property Management,4641 N 12th St,"Phoenix, AZ 85014",(602) 441-4869
+835,Axxent Realty & Property,1021 E Turney Ave,"Phoenix, AZ 85014",(602) 266-0695
+836,Los Arcos Realty & Management,14415 N 73rd St,"Scottsdale, AZ 85260",(480) 443-8287
+837,Picerne Development Corp,1420 E Missouri Ave Ste 100,"Phoenix, AZ 85014",(602) 279-8484
+838,The Perfect SetUp,1901 E Ocotillo Rd,"Phoenix, AZ 85016",(623) 810-9503
+839,Jjp & E,2145 E Cathedral Rock Dr,"Phoenix, AZ 85048",(480) 759-0608
+840,Red Mountain Retail Group,1515 E Bethany Home Rd Ste 110,"Phoenix, AZ 85014",(602) 977-2791
+841,Bledsoe Asset Management,1500 E Bethany Home Rd Ste 120,"Phoenix, AZ 85014",(602) 595-2324
+842,Meb Management,1215 E Missouri Ave Ste E,"Phoenix, AZ 85014",(602) 279-5515
+843,North Point 6315/the Willow,6315 N 16th St,"Phoenix, AZ 85016",(602) 368-8833
+844,M V M Properties,1616 E Maryland Ave,"Phoenix, AZ 85016",(602) 812-3661
+845,Bzm Inc,6505 N Place D Valencia,"Phoenix, AZ 85014",(602) 266-8464
+846,Goldstar Management Group,1819 E Morten Ave Ste 280,"Phoenix, AZ 85020",(602) 674-5100
+847,Hartchem,3030 E Ocotilla Ln,"Phoenix, AZ 85028",(602) 305-9830
+848,CAM Properties,7228 N Dreamy Draw Dr,"Phoenix, AZ 85020",(602) 957-4999
+849,Quadras Corp,7204 N 16th St,"Phoenix, AZ 85020",(602) 279-1440
+850,Rosestone Properties,1202 E Maryland Ave,"Phoenix, AZ 85014",(602) 274-2700
+851,Commercial Property Solutions,7220 N 16th St Ste B200,"Phoenix, AZ 85020",(602) 943-4770
+852,Property Management Specialist,1225 E Encantada Pl,"Phoenix, AZ 85014",(602) 230-1988
+853,MHC Inc,7310 N 16th St,"Phoenix, AZ 85020",(602) 674-5623
+854,Accurate Signings,Valleywide,"Scottsdale, AZ 85254",(602) 799-1873
+855,Premises Properties,1599 E Orangewood Ave,"Phoenix, AZ 85020",(602) 944-1177
+856,Jerry Oliver/Western Traditions Realty Inc.,1334 E Chandler Blvd Ste 5-B72,"Phoenix, AZ 85048",(602) 547-1155
+857,Plaza Squaw Peak,7600 N 16th St,"Phoenix, AZ 85020",(602) 371-3881
+858,Aam,7600 N 16th St,"Phoenix, AZ 85020",(602) 954-9252
+859,Mountain View Villas,9230 N 26th St Unit 109,"Phoenix, AZ 85028",(602) 788-2060
+860,Southwest Property Ventures,7720 N 16th St,"Phoenix, AZ 85020",(602) 997-8500
+861,Parkway Properties,7740 N 16th St Ste 155,"Phoenix, AZ 85020",(602) 997-5410
+862,Virtua Partners,7600 N 15th St,"Phoenix, AZ 85020",(619) 764-9633
+863,Paradise Executive,7901 N 16th St,"Phoenix, AZ 85020",(602) 535-5711
+864,S W Management,7901 N 16th St,"Phoenix, AZ 85020",(602) 354-3115
+865,Las Palomas Resales Inc,1600 E Northern Ave # 270,"Phoenix, AZ 85020",(480) 948-9000
+866,Ventana,1333 E Morten Ave,"Phoenix, AZ 85020",(602) 906-4020
+867,Three Amigos Property Management,7800 N 14th St,"Phoenix, AZ 85020",(602) 997-0123
+868,Villas at Northern Heights,8105 N 13th Way,"Phoenix, AZ 85020",(602) 943-5780
+869,Adobe Valley,Valleywide,"Phoenix, AZ 85020",(602) 430-6134
